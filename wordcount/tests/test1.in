@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <ctype.h>
+
+#define SPACE 0
+#define WORD 1
+
+
+int main() {
+
+    int c;
+    int state = SPACE; 		/* I am in "space" mode */
+    int count = 0;
+    
+    while ((c = getchar()) != EOF) {
+	switch (state) {
+	case SPACE:
+	    if (!isspace(c)) {
+		state = WORD;
+		++count;
+	    }
+	    break;
+	case WORD:
+	    if (isspace(c))
+		state = SPACE;
+	    break;
+	}
+    }
+    printf("%d\n", count);
+}

@@ -1,0 +1,30 @@
+! /bin/sh
+## BEGIN INIT INFO
+ Provides:          mountall
+ Required-Start:    checkfs checkroot-bootclean
+ Required-Stop: 
+ Default-Start:     S
+ Default-Stop:
+ Short-Description: Mount all filesystems.
+ Description:
+## END INIT INFO
+ for ntfs-3g to get correct file name encoding
+
+ Mount local file systems in /etc/fstab.
+
+ May have been mounted read-only by initramfs.
+ Remount with unmodified options from /etc/fstab.
+ We might have mounted something over /run; see if
+ /run/initctl is present.  Look for
+ /usr/share/sysvinit/update-rc.d to verify that sysvinit (and
+ not upstart) is installed).
+ Create new control channel
+ Reopen control channel.
+ Execute swapon command again, in case we want to swap to
+ a file on a now mounted filesystem.
+ Remount tmpfs filesystems; with increased VM after swapon,
+ the size limits may be adjusted.
+ Now we have mounted everything, check whether we need to
+ mount a tmpfs on /tmp.  We can now also determine swap size
+ to factor this into our size limit.
+ No-op
