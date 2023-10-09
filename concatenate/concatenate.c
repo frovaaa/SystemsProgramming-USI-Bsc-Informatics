@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int concatenate(char *s, unsigned max_size, const char *s2)
 {
 
