@@ -72,4 +72,6 @@ int print_numbers(const char *input)
 int main()
 {
     assert(print_numbers("abc123xyz-7//443.2") == 4);
+    printf("\n");
+    assert(print_numbers("abc123xyz-7-8//443.2") == 5);
 }
