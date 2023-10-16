@@ -118,20 +118,20 @@ int twotimes2(const char *begin, const char *end)
     }
 }
 
-// #include <stdio.h>
-// int main(int argc, char const *argv[])
-// {
-//     // const char * s = "ab";
+#include <stdio.h>
+int main(int argc, char const *argv[])
+{
+    // const char * s = "ab";
 
-//     // int res = !twotimes("ab");
-//     // int res2 = !twotimes2(s,s+2);
-//     // printf("res: %d\n", res);
-//     // printf("res2: %d\n", res2);
+    // int res = !twotimes("ab");
+    // int res2 = !twotimes2(s,s+2);
+    // printf("res: %d\n", res);
+    // printf("res2: %d\n", res2);
 
-//     const char * z1 = "aa\0ab\0";
-//     int res = twotimes(z1);
-//     printf("res: %d\n", res);
+    const char * z1 = "aa\0ab\0";
+    int res = twotimes(z1);
+    printf("res: %d\n", res);
 
 
-//     return 0;
-// }
+    return 0;
+}
