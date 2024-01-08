@@ -1,0 +1,7224 @@
+#car
+hp=100
+maker=maker 0
+driver=driver 1
+price=30000
+model=model 0
+#end
+#car
+driver=driver 3
+maker=maker 0
+model=model 0
+price=40000
+hp=190
+#end
+#car
+driver=driver 3
+price=35000
+model=model 0
+maker=maker 2
+hp=180
+#end
+#car
+model=model 0
+driver=driver 2
+price=40000
+hp=180
+maker=maker 0
+#end
+#car
+price=25000
+maker=maker 0
+driver=driver 3
+hp=100
+model=model 1
+#end
+#car
+maker=maker 2
+price=40000
+hp=150
+driver=driver 1
+model=model 1
+#end
+#car
+model=model 0
+driver=driver 0
+hp=80
+price=25000
+maker=maker 2
+#end
+#car
+maker=maker 0
+price=30000
+hp=110
+driver=driver 4
+model=model 0
+#end
+#car
+price=25000
+hp=80
+driver=driver 1
+maker=maker 0
+model=model 1
+#end
+#car
+model=model 1
+maker=maker 1
+price=40000
+hp=130
+driver=driver 2
+#end
+#car
+hp=180
+maker=maker 2
+driver=driver 0
+price=25000
+model=model 0
+#end
+#car
+price=45000
+model=model 0
+hp=110
+maker=maker 0
+driver=driver 0
+#end
+#car
+hp=140
+driver=driver 2
+maker=maker 1
+price=40000
+model=model 1
+#end
+#car
+driver=driver 0
+hp=120
+price=20000
+maker=maker 2
+model=model 1
+#end
+#car
+hp=90
+maker=maker 1
+price=30000
+driver=driver 1
+model=model 1
+#end
+#car
+model=model 0
+driver=driver 1
+price=30000
+hp=120
+maker=maker 2
+#end
+#car
+model=model 1
+price=35000
+maker=maker 2
+driver=driver 0
+hp=170
+#end
+#car
+driver=driver 2
+model=model 0
+price=20000
+hp=140
+maker=maker 2
+#end
+#car
+maker=maker 0
+price=30000
+model=model 0
+driver=driver 2
+hp=160
+#end
+#car
+price=45000
+hp=110
+driver=driver 2
+model=model 0
+maker=maker 1
+#end
+#car
+price=45000
+model=model 0
+hp=120
+maker=maker 0
+driver=driver 3
+#end
+#car
+maker=maker 0
+price=40000
+model=model 1
+driver=driver 0
+hp=150
+#end
+#car
+model=model 1
+price=30000
+driver=driver 2
+hp=170
+maker=maker 2
+#end
+#car
+maker=maker 1
+hp=80
+driver=driver 1
+price=45000
+model=model 1
+#end
+#car
+price=25000
+hp=80
+model=model 0
+driver=driver 4
+maker=maker 0
+#end
+#car
+price=30000
+maker=maker 2
+hp=110
+driver=driver 1
+model=model 0
+#end
+#car
+price=20000
+hp=80
+maker=maker 1
+model=model 0
+driver=driver 3
+#end
+#car
+driver=driver 1
+hp=170
+price=40000
+maker=maker 2
+model=model 1
+#end
+#car
+model=model 1
+hp=110
+price=45000
+driver=driver 2
+maker=maker 2
+#end
+#car
+hp=180
+maker=maker 2
+model=model 0
+driver=driver 4
+price=45000
+#end
+#car
+price=30000
+maker=maker 2
+driver=driver 2
+hp=120
+model=model 0
+#end
+#car
+model=model 0
+maker=maker 0
+driver=driver 3
+hp=100
+price=20000
+#end
+#car
+model=model 1
+driver=driver 2
+hp=100
+price=30000
+maker=maker 2
+#end
+#driver
+team=team 6
+name=driver 4
+#end
+#car
+maker=maker 2
+model=model 1
+hp=190
+price=30000
+driver=driver 3
+#end
+#car
+hp=180
+maker=maker 2
+driver=driver 3
+model=model 0
+price=45000
+#end
+#driver
+team=team 0
+name=driver 3
+#end
+#car
+driver=driver 2
+maker=maker 1
+model=model 0
+hp=140
+price=30000
+#end
+#car
+maker=maker 1
+price=20000
+hp=170
+model=model 1
+driver=driver 4
+#end
+#car
+maker=maker 1
+model=model 0
+price=40000
+hp=100
+driver=driver 1
+#end
+#car
+driver=driver 1
+price=25000
+model=model 0
+maker=maker 0
+hp=90
+#end
+#car
+model=model 1
+price=30000
+hp=130
+driver=driver 1
+maker=maker 0
+#end
+#car
+driver=driver 1
+hp=110
+price=45000
+model=model 1
+maker=maker 0
+#end
+#car
+price=20000
+driver=driver 0
+maker=maker 1
+model=model 0
+hp=100
+#end
+#car
+price=40000
+hp=130
+driver=driver 2
+maker=maker 2
+model=model 0
+#end
+#car
+driver=driver 4
+hp=180
+model=model 0
+maker=maker 2
+price=35000
+#end
+#car
+model=model 1
+price=30000
+hp=110
+driver=driver 2
+maker=maker 0
+#end
+#car
+driver=driver 2
+maker=maker 1
+price=45000
+hp=110
+model=model 1
+#end
+#car
+price=30000
+driver=driver 3
+hp=120
+maker=maker 1
+model=model 1
+#end
+#car
+hp=140
+model=model 1
+price=20000
+driver=driver 2
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=100
+driver=driver 4
+model=model 1
+price=20000
+#end
+#driver
+team=team 1
+name=driver 1
+#end
+#car
+maker=maker 2
+model=model 1
+hp=80
+driver=driver 4
+price=25000
+#end
+#car
+price=20000
+model=model 1
+maker=maker 2
+driver=driver 1
+hp=80
+#end
+#car
+model=model 0
+price=45000
+maker=maker 0
+hp=160
+driver=driver 2
+#end
+#car
+hp=190
+driver=driver 4
+maker=maker 0
+price=25000
+model=model 0
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 1
+hp=140
+price=40000
+#end
+#driver
+name=driver 0
+team=team 4
+#end
+#car
+hp=180
+price=45000
+driver=driver 0
+model=model 0
+maker=maker 1
+#end
+#car
+price=40000
+hp=150
+driver=driver 2
+maker=maker 2
+model=model 1
+#end
+#car
+price=20000
+driver=driver 1
+maker=maker 0
+model=model 1
+hp=190
+#end
+#car
+price=35000
+model=model 1
+driver=driver 4
+maker=maker 2
+hp=150
+#end
+#car
+driver=driver 2
+model=model 1
+maker=maker 1
+price=35000
+hp=90
+#end
+#car
+hp=190
+maker=maker 2
+price=20000
+driver=driver 2
+model=model 0
+#end
+#driver
+name=driver 1
+team=team 1
+#end
+#car
+hp=180
+driver=driver 2
+model=model 1
+maker=maker 2
+price=35000
+#end
+#car
+hp=180
+price=20000
+model=model 1
+maker=maker 0
+driver=driver 3
+#end
+#car
+model=model 0
+price=45000
+driver=driver 1
+hp=170
+maker=maker 0
+#end
+#car
+model=model 0
+hp=120
+price=30000
+maker=maker 0
+driver=driver 1
+#end
+#car
+driver=driver 3
+price=45000
+hp=80
+maker=maker 2
+model=model 1
+#end
+#car
+maker=maker 1
+model=model 1
+hp=180
+driver=driver 4
+price=20000
+#end
+#car
+model=model 0
+maker=maker 2
+hp=80
+driver=driver 1
+price=30000
+#end
+#car
+price=35000
+model=model 1
+driver=driver 3
+hp=130
+maker=maker 2
+#end
+#car
+price=35000
+driver=driver 4
+hp=100
+model=model 0
+maker=maker 0
+#end
+#car
+model=model 0
+hp=150
+driver=driver 1
+price=25000
+maker=maker 0
+#end
+#car
+driver=driver 3
+model=model 1
+hp=170
+maker=maker 1
+price=45000
+#end
+#car
+price=45000
+hp=100
+model=model 1
+maker=maker 2
+driver=driver 3
+#end
+#car
+hp=120
+driver=driver 0
+maker=maker 1
+model=model 0
+price=30000
+#end
+#driver
+team=team 5
+name=driver 3
+#end
+#car
+hp=110
+driver=driver 1
+maker=maker 0
+model=model 1
+price=30000
+#end
+#driver
+name=driver 0
+team=team 3
+#end
+#car
+hp=160
+driver=driver 4
+maker=maker 2
+price=20000
+model=model 0
+#end
+#car
+maker=maker 1
+model=model 0
+driver=driver 4
+price=45000
+hp=160
+#end
+#car
+model=model 1
+hp=160
+maker=maker 0
+driver=driver 1
+price=25000
+#end
+#car
+hp=120
+model=model 1
+driver=driver 2
+price=20000
+maker=maker 2
+#end
+#car
+model=model 0
+driver=driver 2
+maker=maker 0
+hp=140
+price=20000
+#end
+#car
+model=model 1
+maker=maker 0
+price=30000
+hp=180
+driver=driver 3
+#end
+#car
+price=20000
+model=model 1
+hp=160
+driver=driver 2
+maker=maker 0
+#end
+#car
+maker=maker 1
+price=35000
+hp=170
+driver=driver 3
+model=model 0
+#end
+#car
+model=model 1
+hp=190
+driver=driver 1
+maker=maker 2
+price=25000
+#end
+#car
+model=model 1
+hp=110
+driver=driver 3
+price=35000
+maker=maker 2
+#end
+#car
+maker=maker 2
+price=25000
+driver=driver 1
+hp=90
+model=model 1
+#end
+#car
+maker=maker 1
+price=35000
+model=model 1
+hp=190
+driver=driver 2
+#end
+#car
+hp=80
+model=model 1
+maker=maker 2
+price=40000
+driver=driver 2
+#end
+#car
+driver=driver 0
+hp=170
+price=35000
+maker=maker 0
+model=model 1
+#end
+#car
+maker=maker 2
+hp=180
+price=40000
+model=model 0
+driver=driver 1
+#end
+#car
+maker=maker 0
+model=model 0
+price=25000
+hp=190
+driver=driver 0
+#end
+#car
+driver=driver 0
+price=30000
+maker=maker 2
+hp=80
+model=model 1
+#end
+#car
+hp=160
+maker=maker 2
+driver=driver 1
+price=45000
+model=model 0
+#end
+#car
+driver=driver 2
+hp=190
+maker=maker 1
+price=40000
+model=model 0
+#end
+#car
+driver=driver 2
+model=model 0
+maker=maker 1
+hp=100
+price=40000
+#end
+#car
+model=model 0
+hp=180
+maker=maker 2
+price=40000
+driver=driver 4
+#end
+#car
+maker=maker 0
+hp=130
+model=model 1
+price=45000
+driver=driver 0
+#end
+#car
+driver=driver 3
+maker=maker 2
+model=model 0
+hp=80
+price=40000
+#end
+#car
+maker=maker 1
+driver=driver 0
+price=45000
+hp=190
+model=model 1
+#end
+#car
+maker=maker 1
+hp=90
+model=model 1
+price=35000
+driver=driver 2
+#end
+#car
+maker=maker 1
+hp=170
+driver=driver 3
+price=25000
+model=model 1
+#end
+#car
+price=30000
+driver=driver 2
+maker=maker 0
+model=model 1
+hp=150
+#end
+#car
+model=model 0
+price=35000
+driver=driver 1
+maker=maker 2
+hp=100
+#end
+#car
+hp=190
+price=25000
+driver=driver 4
+model=model 1
+maker=maker 0
+#end
+#car
+maker=maker 0
+price=25000
+driver=driver 4
+model=model 1
+hp=110
+#end
+#car
+hp=120
+driver=driver 3
+price=25000
+maker=maker 2
+model=model 0
+#end
+#car
+hp=130
+driver=driver 3
+maker=maker 1
+model=model 0
+price=30000
+#end
+#car
+hp=80
+model=model 0
+maker=maker 2
+price=30000
+driver=driver 4
+#end
+#car
+maker=maker 0
+model=model 0
+hp=170
+driver=driver 1
+price=25000
+#end
+#car
+hp=130
+maker=maker 1
+driver=driver 3
+price=40000
+model=model 1
+#end
+#driver
+team=team 6
+name=driver 0
+#end
+#car
+driver=driver 4
+price=30000
+model=model 1
+maker=maker 0
+hp=190
+#end
+#driver
+team=team 1
+name=driver 2
+#end
+#car
+maker=maker 1
+hp=80
+model=model 0
+price=45000
+driver=driver 0
+#end
+#car
+hp=170
+model=model 1
+driver=driver 4
+price=25000
+maker=maker 2
+#end
+#car
+model=model 0
+hp=180
+price=30000
+driver=driver 0
+maker=maker 1
+#end
+#car
+hp=130
+model=model 0
+maker=maker 1
+driver=driver 0
+price=40000
+#end
+#car
+maker=maker 2
+driver=driver 3
+model=model 1
+price=40000
+hp=90
+#end
+#car
+driver=driver 3
+hp=130
+price=45000
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=130
+model=model 0
+driver=driver 2
+price=20000
+#end
+#car
+model=model 0
+driver=driver 4
+maker=maker 2
+price=40000
+hp=120
+#end
+#car
+maker=maker 1
+hp=180
+price=45000
+driver=driver 4
+model=model 1
+#end
+#car
+model=model 0
+hp=160
+price=25000
+driver=driver 4
+maker=maker 2
+#end
+#car
+model=model 0
+maker=maker 2
+price=25000
+driver=driver 1
+hp=120
+#end
+#car
+maker=maker 0
+model=model 0
+driver=driver 2
+hp=90
+price=35000
+#end
+#car
+hp=100
+driver=driver 4
+maker=maker 0
+price=20000
+model=model 1
+#end
+#car
+maker=maker 2
+driver=driver 4
+price=25000
+model=model 0
+hp=100
+#end
+#car
+hp=80
+price=25000
+driver=driver 3
+model=model 1
+maker=maker 1
+#end
+#car
+price=45000
+hp=100
+model=model 1
+maker=maker 0
+driver=driver 2
+#end
+#car
+price=45000
+maker=maker 0
+hp=100
+driver=driver 0
+model=model 0
+#end
+#car
+price=35000
+driver=driver 1
+hp=100
+maker=maker 1
+model=model 1
+#end
+#car
+price=45000
+model=model 0
+maker=maker 2
+hp=170
+driver=driver 2
+#end
+#car
+hp=150
+maker=maker 2
+model=model 0
+price=25000
+driver=driver 3
+#end
+#driver
+name=driver 2
+team=team 2
+#end
+#car
+hp=160
+driver=driver 3
+maker=maker 2
+model=model 0
+price=30000
+#end
+#car
+price=40000
+hp=90
+driver=driver 3
+maker=maker 2
+model=model 0
+#end
+#car
+driver=driver 0
+model=model 0
+hp=150
+price=25000
+maker=maker 1
+#end
+#car
+hp=140
+model=model 1
+driver=driver 1
+price=40000
+maker=maker 1
+#end
+#car
+hp=180
+model=model 0
+price=30000
+maker=maker 1
+driver=driver 1
+#end
+#car
+hp=110
+model=model 0
+maker=maker 0
+driver=driver 3
+price=20000
+#end
+#car
+hp=130
+driver=driver 3
+model=model 0
+maker=maker 0
+price=20000
+#end
+#car
+price=40000
+driver=driver 3
+model=model 1
+maker=maker 1
+hp=100
+#end
+#car
+price=40000
+maker=maker 1
+model=model 0
+driver=driver 4
+hp=170
+#end
+#car
+hp=160
+price=25000
+driver=driver 0
+model=model 1
+maker=maker 0
+#end
+#car
+price=20000
+hp=180
+maker=maker 0
+driver=driver 1
+model=model 1
+#end
+#car
+price=35000
+hp=170
+driver=driver 0
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=90
+driver=driver 2
+model=model 1
+price=20000
+#end
+#car
+driver=driver 0
+model=model 0
+price=35000
+hp=140
+maker=maker 2
+#end
+#car
+price=20000
+driver=driver 0
+hp=80
+model=model 0
+maker=maker 1
+#end
+#car
+hp=180
+maker=maker 1
+model=model 1
+driver=driver 1
+price=40000
+#end
+#car
+hp=150
+driver=driver 0
+price=45000
+maker=maker 2
+model=model 1
+#end
+#car
+hp=180
+price=25000
+driver=driver 2
+maker=maker 0
+model=model 0
+#end
+#car
+hp=130
+maker=maker 1
+driver=driver 0
+price=20000
+model=model 1
+#end
+#car
+price=20000
+maker=maker 2
+model=model 1
+driver=driver 2
+hp=110
+#end
+#car
+maker=maker 2
+hp=140
+price=45000
+driver=driver 4
+model=model 0
+#end
+#car
+price=30000
+model=model 0
+maker=maker 1
+driver=driver 0
+hp=170
+#end
+#car
+driver=driver 2
+price=20000
+model=model 0
+maker=maker 2
+hp=140
+#end
+#car
+hp=180
+maker=maker 2
+model=model 0
+driver=driver 3
+price=35000
+#end
+#car
+model=model 1
+hp=160
+maker=maker 2
+price=30000
+driver=driver 1
+#end
+#car
+price=35000
+hp=160
+maker=maker 2
+model=model 1
+driver=driver 2
+#end
+#car
+price=30000
+hp=110
+model=model 1
+driver=driver 4
+maker=maker 0
+#end
+#car
+maker=maker 2
+model=model 1
+hp=160
+driver=driver 4
+price=45000
+#end
+#car
+price=45000
+model=model 0
+maker=maker 0
+hp=180
+driver=driver 0
+#end
+#car
+model=model 1
+maker=maker 1
+driver=driver 0
+hp=150
+price=35000
+#end
+#car
+driver=driver 0
+model=model 0
+price=45000
+hp=160
+maker=maker 2
+#end
+#car
+price=30000
+hp=80
+maker=maker 2
+model=model 1
+driver=driver 3
+#end
+#car
+price=30000
+driver=driver 0
+hp=180
+maker=maker 0
+model=model 1
+#end
+#car
+maker=maker 0
+driver=driver 3
+model=model 0
+price=40000
+hp=140
+#end
+#car
+model=model 1
+price=25000
+maker=maker 2
+driver=driver 0
+hp=90
+#end
+#car
+model=model 0
+hp=140
+price=40000
+driver=driver 4
+maker=maker 2
+#end
+#car
+hp=190
+driver=driver 4
+maker=maker 2
+model=model 0
+price=20000
+#end
+#car
+driver=driver 3
+model=model 0
+price=45000
+hp=120
+maker=maker 2
+#end
+#car
+price=25000
+maker=maker 1
+model=model 1
+hp=130
+driver=driver 2
+#end
+#car
+price=45000
+model=model 1
+maker=maker 1
+driver=driver 2
+hp=160
+#end
+#car
+maker=maker 2
+model=model 1
+hp=190
+driver=driver 0
+price=35000
+#end
+#car
+maker=maker 0
+model=model 1
+hp=80
+price=40000
+driver=driver 3
+#end
+#car
+driver=driver 1
+price=25000
+maker=maker 0
+model=model 0
+hp=180
+#end
+#driver
+name=driver 4
+team=team 2
+#end
+#car
+model=model 1
+price=40000
+driver=driver 2
+hp=130
+maker=maker 2
+#end
+#car
+driver=driver 1
+maker=maker 0
+model=model 1
+price=30000
+hp=160
+#end
+#car
+hp=150
+price=40000
+maker=maker 0
+model=model 0
+driver=driver 2
+#end
+#car
+driver=driver 3
+price=45000
+model=model 1
+maker=maker 1
+hp=130
+#end
+#car
+price=45000
+model=model 1
+hp=190
+maker=maker 1
+driver=driver 2
+#end
+#car
+hp=90
+price=35000
+driver=driver 3
+model=model 0
+maker=maker 1
+#end
+#car
+price=20000
+maker=maker 1
+model=model 1
+driver=driver 4
+hp=160
+#end
+#car
+model=model 0
+driver=driver 4
+price=25000
+hp=160
+maker=maker 0
+#end
+#car
+driver=driver 1
+price=45000
+maker=maker 1
+model=model 1
+hp=120
+#end
+#car
+maker=maker 2
+hp=190
+driver=driver 2
+model=model 1
+price=20000
+#end
+#car
+hp=80
+maker=maker 2
+model=model 1
+price=30000
+driver=driver 1
+#end
+#car
+hp=160
+maker=maker 1
+price=25000
+driver=driver 2
+model=model 0
+#end
+#car
+price=25000
+model=model 0
+driver=driver 2
+hp=120
+maker=maker 1
+#end
+#car
+hp=90
+maker=maker 0
+price=25000
+driver=driver 3
+model=model 0
+#end
+#car
+model=model 0
+hp=120
+maker=maker 1
+price=45000
+driver=driver 0
+#end
+#car
+driver=driver 1
+maker=maker 0
+hp=90
+price=20000
+model=model 0
+#end
+#car
+driver=driver 0
+model=model 0
+price=30000
+hp=120
+maker=maker 0
+#end
+#car
+maker=maker 0
+model=model 0
+driver=driver 2
+price=40000
+hp=110
+#end
+#car
+hp=80
+driver=driver 1
+maker=maker 0
+price=40000
+model=model 0
+#end
+#car
+model=model 1
+driver=driver 1
+hp=90
+maker=maker 1
+price=45000
+#end
+#car
+model=model 1
+hp=190
+price=45000
+driver=driver 0
+maker=maker 1
+#end
+#car
+driver=driver 3
+hp=80
+price=30000
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 1
+model=model 0
+price=40000
+hp=180
+driver=driver 2
+#end
+#car
+driver=driver 3
+maker=maker 2
+model=model 1
+price=20000
+hp=190
+#end
+#car
+hp=160
+model=model 0
+maker=maker 2
+driver=driver 2
+price=45000
+#end
+#car
+price=35000
+hp=110
+driver=driver 0
+maker=maker 0
+model=model 0
+#end
+#car
+maker=maker 2
+driver=driver 4
+price=35000
+hp=120
+model=model 0
+#end
+#car
+maker=maker 0
+price=35000
+model=model 0
+hp=80
+driver=driver 2
+#end
+#car
+model=model 1
+price=45000
+maker=maker 0
+driver=driver 3
+hp=110
+#end
+#car
+price=30000
+model=model 0
+hp=150
+driver=driver 2
+maker=maker 2
+#end
+#car
+hp=170
+driver=driver 1
+maker=maker 0
+model=model 1
+price=20000
+#end
+#driver
+name=driver 1
+team=team 2
+#end
+#car
+driver=driver 4
+price=30000
+model=model 0
+hp=150
+maker=maker 2
+#end
+#car
+price=25000
+driver=driver 0
+hp=80
+model=model 1
+maker=maker 0
+#end
+#car
+hp=100
+maker=maker 1
+driver=driver 3
+model=model 1
+price=45000
+#end
+#car
+maker=maker 2
+driver=driver 1
+model=model 0
+hp=110
+price=45000
+#end
+#car
+price=30000
+hp=170
+driver=driver 1
+maker=maker 0
+model=model 1
+#end
+#car
+maker=maker 0
+hp=140
+price=35000
+driver=driver 0
+model=model 1
+#end
+#car
+hp=110
+model=model 0
+maker=maker 0
+price=40000
+driver=driver 3
+#end
+#car
+model=model 1
+price=20000
+driver=driver 1
+maker=maker 1
+hp=90
+#end
+#car
+driver=driver 0
+maker=maker 2
+hp=110
+model=model 1
+price=35000
+#end
+#car
+driver=driver 0
+maker=maker 2
+price=45000
+model=model 1
+hp=150
+#end
+#car
+maker=maker 1
+hp=120
+price=20000
+model=model 1
+driver=driver 1
+#end
+#car
+maker=maker 2
+hp=90
+model=model 1
+price=25000
+driver=driver 2
+#end
+#car
+hp=190
+driver=driver 3
+price=45000
+model=model 0
+maker=maker 0
+#end
+#car
+model=model 0
+price=35000
+hp=90
+maker=maker 0
+driver=driver 1
+#end
+#car
+model=model 0
+driver=driver 2
+price=25000
+hp=150
+maker=maker 1
+#end
+#car
+maker=maker 0
+hp=160
+model=model 0
+driver=driver 4
+price=35000
+#end
+#car
+model=model 0
+maker=maker 0
+driver=driver 4
+hp=90
+price=30000
+#end
+#car
+maker=maker 2
+price=30000
+driver=driver 3
+model=model 1
+hp=130
+#end
+#car
+driver=driver 2
+model=model 1
+maker=maker 0
+hp=140
+price=20000
+#end
+#car
+hp=80
+model=model 1
+maker=maker 2
+price=30000
+driver=driver 3
+#end
+#car
+hp=80
+maker=maker 1
+price=45000
+driver=driver 1
+model=model 0
+#end
+#car
+hp=170
+driver=driver 0
+maker=maker 1
+model=model 0
+price=45000
+#end
+#car
+model=model 0
+maker=maker 1
+hp=180
+driver=driver 4
+price=40000
+#end
+#car
+driver=driver 1
+model=model 1
+hp=110
+maker=maker 1
+price=40000
+#end
+#car
+hp=170
+driver=driver 4
+model=model 0
+maker=maker 2
+price=25000
+#end
+#car
+driver=driver 3
+hp=120
+price=30000
+model=model 1
+maker=maker 2
+#end
+#car
+hp=130
+model=model 0
+driver=driver 1
+price=25000
+maker=maker 1
+#end
+#car
+price=35000
+driver=driver 4
+hp=170
+model=model 1
+maker=maker 1
+#end
+#car
+hp=90
+price=45000
+driver=driver 3
+model=model 0
+maker=maker 1
+#end
+#car
+driver=driver 0
+hp=140
+maker=maker 0
+model=model 0
+price=20000
+#end
+#car
+hp=160
+model=model 0
+maker=maker 2
+driver=driver 4
+price=45000
+#end
+#car
+hp=120
+price=45000
+driver=driver 2
+model=model 0
+maker=maker 2
+#end
+#car
+model=model 0
+price=40000
+driver=driver 3
+maker=maker 1
+hp=160
+#end
+#car
+model=model 0
+maker=maker 0
+driver=driver 4
+hp=180
+price=35000
+#end
+#car
+price=30000
+hp=100
+driver=driver 1
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 2
+hp=90
+driver=driver 1
+price=35000
+model=model 1
+#end
+#driver
+team=team 9
+name=driver 3
+#end
+#car
+model=model 1
+driver=driver 3
+hp=140
+price=35000
+maker=maker 0
+#end
+#car
+driver=driver 4
+hp=150
+maker=maker 1
+model=model 0
+price=20000
+#end
+#car
+maker=maker 2
+hp=180
+price=20000
+driver=driver 1
+model=model 1
+#end
+#car
+maker=maker 1
+driver=driver 1
+price=20000
+hp=160
+model=model 0
+#end
+#car
+hp=90
+price=40000
+driver=driver 1
+maker=maker 2
+model=model 0
+#end
+#car
+price=45000
+model=model 0
+maker=maker 2
+driver=driver 4
+hp=140
+#end
+#car
+model=model 0
+price=25000
+hp=170
+maker=maker 2
+driver=driver 3
+#end
+#driver
+team=team 2
+name=driver 2
+#end
+#car
+maker=maker 1
+price=30000
+model=model 0
+driver=driver 1
+hp=90
+#end
+#car
+price=20000
+hp=90
+maker=maker 2
+driver=driver 2
+model=model 0
+#end
+#car
+hp=190
+price=20000
+maker=maker 2
+model=model 0
+driver=driver 2
+#end
+#car
+hp=140
+driver=driver 4
+maker=maker 0
+model=model 1
+price=25000
+#end
+#car
+price=25000
+hp=150
+maker=maker 1
+driver=driver 4
+model=model 0
+#end
+#car
+driver=driver 3
+maker=maker 0
+model=model 0
+hp=80
+price=45000
+#end
+#car
+maker=maker 2
+hp=80
+model=model 1
+driver=driver 2
+price=25000
+#end
+#car
+hp=130
+maker=maker 0
+price=45000
+model=model 1
+driver=driver 1
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 2
+price=25000
+hp=80
+#end
+#car
+hp=90
+maker=maker 1
+driver=driver 3
+price=20000
+model=model 1
+#end
+#car
+price=40000
+hp=140
+model=model 1
+driver=driver 2
+maker=maker 0
+#end
+#car
+hp=150
+price=20000
+maker=maker 1
+driver=driver 3
+model=model 1
+#end
+#car
+driver=driver 0
+maker=maker 1
+model=model 1
+price=20000
+hp=120
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 4
+hp=170
+price=45000
+#end
+#car
+model=model 0
+hp=130
+price=40000
+driver=driver 0
+maker=maker 2
+#end
+#car
+model=model 0
+driver=driver 0
+price=30000
+hp=150
+maker=maker 1
+#end
+#car
+model=model 0
+maker=maker 0
+hp=190
+price=35000
+driver=driver 3
+#end
+#car
+maker=maker 1
+driver=driver 3
+hp=100
+price=20000
+model=model 1
+#end
+#car
+hp=80
+maker=maker 2
+price=40000
+driver=driver 0
+model=model 0
+#end
+#car
+price=30000
+model=model 1
+driver=driver 0
+maker=maker 1
+hp=100
+#end
+#car
+maker=maker 1
+driver=driver 0
+hp=160
+price=30000
+model=model 0
+#end
+#car
+model=model 0
+price=25000
+hp=160
+driver=driver 2
+maker=maker 2
+#end
+#team
+name=team 2
+#end
+#car
+hp=140
+driver=driver 3
+model=model 0
+maker=maker 0
+price=25000
+#end
+#car
+maker=maker 1
+driver=driver 3
+price=45000
+model=model 1
+hp=80
+#end
+#car
+driver=driver 4
+price=40000
+hp=190
+model=model 1
+maker=maker 1
+#end
+#car
+model=model 1
+maker=maker 0
+hp=130
+price=45000
+driver=driver 4
+#end
+#car
+model=model 1
+price=45000
+hp=140
+driver=driver 4
+maker=maker 2
+#end
+#driver
+team=team 7
+name=driver 0
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 4
+price=20000
+hp=140
+#end
+#car
+driver=driver 4
+hp=100
+model=model 1
+price=25000
+maker=maker 2
+#end
+#driver
+name=driver 0
+team=team 5
+#end
+#car
+hp=130
+model=model 1
+driver=driver 4
+price=40000
+maker=maker 1
+#end
+#car
+maker=maker 0
+driver=driver 3
+hp=190
+price=20000
+model=model 1
+#end
+#car
+driver=driver 3
+price=20000
+hp=150
+model=model 0
+maker=maker 2
+#end
+#car
+price=30000
+model=model 0
+hp=90
+driver=driver 1
+maker=maker 1
+#end
+#car
+driver=driver 0
+model=model 0
+price=35000
+maker=maker 1
+hp=120
+#end
+#car
+maker=maker 0
+model=model 0
+price=25000
+driver=driver 3
+hp=90
+#end
+#car
+maker=maker 2
+model=model 0
+hp=170
+price=45000
+driver=driver 4
+#end
+#car
+hp=80
+driver=driver 3
+price=25000
+model=model 1
+maker=maker 2
+#end
+#car
+maker=maker 1
+price=35000
+driver=driver 4
+hp=100
+model=model 1
+#end
+#car
+price=20000
+model=model 1
+hp=80
+driver=driver 4
+maker=maker 1
+#end
+#car
+driver=driver 1
+model=model 1
+hp=180
+maker=maker 1
+price=30000
+#end
+#car
+hp=180
+price=30000
+model=model 1
+driver=driver 1
+maker=maker 2
+#end
+#car
+hp=150
+price=20000
+model=model 1
+maker=maker 2
+driver=driver 3
+#end
+#car
+model=model 1
+price=30000
+maker=maker 0
+hp=180
+driver=driver 2
+#end
+#car
+hp=100
+driver=driver 0
+maker=maker 2
+price=25000
+model=model 1
+#end
+#car
+maker=maker 0
+model=model 1
+hp=90
+driver=driver 0
+price=25000
+#end
+#car
+driver=driver 4
+maker=maker 0
+price=40000
+hp=90
+model=model 0
+#end
+#car
+maker=maker 1
+model=model 0
+price=20000
+driver=driver 2
+hp=90
+#end
+#car
+maker=maker 0
+driver=driver 3
+price=45000
+hp=130
+model=model 1
+#end
+#car
+maker=maker 1
+hp=80
+model=model 1
+driver=driver 2
+price=30000
+#end
+#car
+model=model 0
+driver=driver 2
+price=40000
+hp=180
+maker=maker 1
+#end
+#car
+model=model 0
+driver=driver 4
+maker=maker 2
+price=40000
+hp=170
+#end
+#car
+hp=190
+price=45000
+driver=driver 0
+model=model 1
+maker=maker 0
+#end
+#car
+hp=90
+maker=maker 2
+model=model 1
+driver=driver 0
+price=30000
+#end
+#car
+maker=maker 0
+hp=80
+driver=driver 1
+model=model 0
+price=30000
+#end
+#car
+model=model 0
+hp=170
+maker=maker 1
+price=40000
+driver=driver 1
+#end
+#car
+model=model 0
+hp=110
+driver=driver 0
+maker=maker 0
+price=30000
+#end
+#car
+price=30000
+driver=driver 4
+maker=maker 2
+model=model 0
+hp=110
+#end
+#car
+price=45000
+driver=driver 4
+model=model 0
+hp=180
+maker=maker 1
+#end
+#car
+model=model 0
+driver=driver 2
+maker=maker 2
+hp=90
+price=30000
+#end
+#car
+maker=maker 0
+model=model 1
+price=25000
+driver=driver 2
+hp=150
+#end
+#car
+driver=driver 0
+model=model 0
+maker=maker 2
+hp=160
+price=35000
+#end
+#car
+model=model 1
+driver=driver 1
+maker=maker 0
+price=30000
+hp=80
+#end
+#car
+driver=driver 4
+maker=maker 2
+price=45000
+hp=110
+model=model 1
+#end
+#car
+model=model 0
+maker=maker 0
+price=45000
+hp=130
+driver=driver 1
+#end
+#car
+hp=90
+price=40000
+model=model 0
+driver=driver 2
+maker=maker 1
+#end
+#car
+driver=driver 1
+maker=maker 2
+hp=190
+model=model 1
+price=45000
+#end
+#car
+hp=150
+driver=driver 4
+maker=maker 0
+price=45000
+model=model 1
+#end
+#car
+hp=150
+model=model 1
+driver=driver 2
+maker=maker 1
+price=30000
+#end
+#car
+hp=170
+maker=maker 0
+driver=driver 0
+price=45000
+model=model 1
+#end
+#car
+model=model 1
+maker=maker 2
+price=45000
+driver=driver 0
+hp=180
+#end
+#car
+driver=driver 0
+hp=180
+model=model 1
+price=40000
+maker=maker 1
+#end
+#car
+model=model 1
+hp=160
+driver=driver 3
+price=25000
+maker=maker 0
+#end
+#car
+driver=driver 1
+price=30000
+hp=180
+maker=maker 0
+model=model 1
+#end
+#car
+driver=driver 0
+price=30000
+hp=90
+maker=maker 0
+model=model 1
+#end
+#car
+hp=100
+driver=driver 4
+model=model 0
+maker=maker 2
+price=25000
+#end
+#car
+driver=driver 0
+price=20000
+model=model 0
+hp=130
+maker=maker 0
+#end
+#car
+model=model 0
+maker=maker 2
+price=45000
+driver=driver 4
+hp=80
+#end
+#car
+maker=maker 1
+hp=100
+model=model 1
+driver=driver 3
+price=20000
+#end
+#car
+driver=driver 0
+model=model 1
+hp=140
+price=25000
+maker=maker 2
+#end
+#driver
+name=driver 2
+team=team 5
+#end
+#car
+driver=driver 3
+hp=150
+price=40000
+maker=maker 0
+model=model 0
+#end
+#car
+price=25000
+maker=maker 2
+model=model 1
+driver=driver 0
+hp=90
+#end
+#car
+hp=120
+price=35000
+model=model 0
+driver=driver 0
+maker=maker 0
+#end
+#car
+model=model 0
+maker=maker 0
+price=20000
+driver=driver 0
+hp=180
+#end
+#car
+hp=180
+maker=maker 0
+price=35000
+driver=driver 0
+model=model 0
+#end
+#driver
+team=team 0
+name=driver 2
+#end
+#car
+hp=120
+price=30000
+model=model 1
+maker=maker 2
+driver=driver 2
+#end
+#car
+driver=driver 1
+hp=190
+maker=maker 1
+price=40000
+model=model 0
+#end
+#car
+hp=110
+driver=driver 4
+maker=maker 1
+price=40000
+model=model 0
+#end
+#car
+maker=maker 1
+price=35000
+model=model 1
+hp=180
+driver=driver 2
+#end
+#car
+hp=110
+price=40000
+maker=maker 0
+model=model 0
+driver=driver 3
+#end
+#driver
+name=driver 4
+team=team 2
+#end
+#car
+hp=110
+driver=driver 2
+price=25000
+maker=maker 0
+model=model 0
+#end
+#car
+driver=driver 0
+price=30000
+maker=maker 2
+hp=130
+model=model 1
+#end
+#car
+model=model 1
+hp=170
+price=20000
+maker=maker 0
+driver=driver 2
+#end
+#car
+maker=maker 0
+model=model 0
+hp=110
+price=45000
+driver=driver 4
+#end
+#team
+name=team 5
+#end
+#car
+price=45000
+model=model 1
+maker=maker 2
+driver=driver 0
+hp=140
+#end
+#car
+hp=150
+maker=maker 0
+driver=driver 4
+price=20000
+model=model 1
+#end
+#car
+maker=maker 2
+price=45000
+model=model 1
+driver=driver 4
+hp=100
+#end
+#car
+model=model 1
+price=30000
+maker=maker 1
+hp=160
+driver=driver 2
+#end
+#car
+model=model 1
+driver=driver 3
+hp=110
+maker=maker 0
+price=25000
+#end
+#car
+hp=180
+maker=maker 1
+driver=driver 1
+price=45000
+model=model 0
+#end
+#car
+driver=driver 2
+price=20000
+hp=80
+model=model 0
+maker=maker 2
+#end
+#car
+model=model 1
+maker=maker 0
+driver=driver 0
+price=20000
+hp=190
+#end
+#car
+price=30000
+driver=driver 2
+model=model 0
+maker=maker 2
+hp=90
+#end
+#car
+maker=maker 2
+price=20000
+model=model 1
+driver=driver 3
+hp=130
+#end
+#car
+price=20000
+hp=170
+model=model 0
+maker=maker 0
+driver=driver 3
+#end
+#car
+maker=maker 1
+driver=driver 3
+model=model 0
+hp=110
+price=35000
+#end
+#car
+maker=maker 2
+price=40000
+model=model 0
+hp=110
+driver=driver 2
+#end
+#car
+driver=driver 4
+model=model 0
+hp=120
+maker=maker 1
+price=20000
+#end
+#car
+maker=maker 1
+driver=driver 0
+model=model 0
+price=40000
+hp=120
+#end
+#car
+hp=190
+model=model 0
+maker=maker 0
+price=35000
+driver=driver 2
+#end
+#car
+price=20000
+model=model 1
+driver=driver 4
+hp=170
+maker=maker 0
+#end
+#car
+price=30000
+maker=maker 0
+model=model 1
+hp=170
+driver=driver 4
+#end
+#car
+maker=maker 2
+price=20000
+hp=80
+driver=driver 0
+model=model 1
+#end
+#car
+model=model 1
+hp=90
+price=40000
+maker=maker 2
+driver=driver 0
+#end
+#car
+maker=maker 0
+driver=driver 4
+price=45000
+hp=160
+model=model 0
+#end
+#car
+price=30000
+model=model 1
+hp=160
+driver=driver 3
+maker=maker 0
+#end
+#car
+price=30000
+driver=driver 0
+model=model 0
+maker=maker 0
+hp=170
+#end
+#car
+hp=90
+price=30000
+model=model 1
+maker=maker 1
+driver=driver 4
+#end
+#car
+hp=140
+price=35000
+maker=maker 1
+model=model 1
+driver=driver 0
+#end
+#car
+model=model 0
+price=40000
+hp=140
+maker=maker 0
+driver=driver 2
+#end
+#car
+maker=maker 0
+driver=driver 1
+price=30000
+model=model 1
+hp=140
+#end
+#car
+price=35000
+driver=driver 2
+model=model 0
+hp=150
+maker=maker 0
+#end
+#car
+driver=driver 2
+price=30000
+maker=maker 2
+hp=110
+model=model 1
+#end
+#car
+price=45000
+hp=140
+maker=maker 2
+model=model 0
+driver=driver 1
+#end
+#car
+model=model 1
+hp=190
+driver=driver 3
+price=25000
+maker=maker 2
+#end
+#car
+price=35000
+maker=maker 2
+hp=90
+model=model 1
+driver=driver 1
+#end
+#car
+price=45000
+model=model 1
+maker=maker 2
+hp=170
+driver=driver 4
+#end
+#car
+driver=driver 3
+model=model 0
+price=45000
+hp=160
+maker=maker 0
+#end
+#car
+hp=90
+driver=driver 3
+maker=maker 0
+model=model 0
+price=30000
+#end
+#car
+price=45000
+maker=maker 1
+driver=driver 4
+hp=100
+model=model 0
+#end
+#car
+model=model 0
+hp=190
+maker=maker 0
+driver=driver 2
+price=35000
+#end
+#car
+driver=driver 3
+price=35000
+model=model 0
+hp=150
+maker=maker 2
+#end
+#car
+model=model 1
+hp=90
+maker=maker 1
+driver=driver 0
+price=40000
+#end
+#car
+hp=140
+model=model 0
+driver=driver 2
+maker=maker 2
+price=35000
+#end
+#car
+driver=driver 3
+price=35000
+maker=maker 0
+model=model 0
+hp=130
+#end
+#car
+hp=80
+price=45000
+model=model 1
+driver=driver 4
+maker=maker 1
+#end
+#car
+hp=180
+model=model 1
+price=35000
+maker=maker 2
+driver=driver 4
+#end
+#car
+driver=driver 2
+hp=170
+price=30000
+model=model 0
+maker=maker 0
+#end
+#car
+hp=130
+maker=maker 1
+model=model 1
+driver=driver 0
+price=25000
+#end
+#car
+maker=maker 2
+price=40000
+model=model 1
+hp=100
+driver=driver 4
+#end
+#car
+model=model 1
+maker=maker 0
+hp=100
+price=20000
+driver=driver 0
+#end
+#car
+driver=driver 2
+maker=maker 0
+hp=130
+price=30000
+model=model 0
+#end
+#car
+model=model 1
+maker=maker 1
+driver=driver 0
+price=25000
+hp=190
+#end
+#car
+model=model 1
+maker=maker 1
+hp=110
+driver=driver 3
+price=40000
+#end
+#car
+price=25000
+driver=driver 2
+hp=110
+maker=maker 0
+model=model 0
+#end
+#car
+driver=driver 3
+maker=maker 2
+hp=110
+model=model 1
+price=40000
+#end
+#car
+maker=maker 0
+price=35000
+driver=driver 3
+hp=160
+model=model 1
+#end
+#car
+model=model 1
+driver=driver 1
+maker=maker 2
+hp=110
+price=30000
+#end
+#car
+model=model 1
+hp=150
+price=20000
+driver=driver 4
+maker=maker 0
+#end
+#car
+hp=160
+maker=maker 0
+driver=driver 0
+price=25000
+model=model 1
+#end
+#car
+price=40000
+hp=80
+maker=maker 2
+driver=driver 0
+model=model 0
+#end
+#car
+hp=150
+price=35000
+model=model 0
+driver=driver 4
+maker=maker 0
+#end
+#car
+model=model 1
+price=25000
+maker=maker 2
+hp=110
+driver=driver 4
+#end
+#car
+price=35000
+model=model 0
+driver=driver 3
+hp=90
+maker=maker 0
+#end
+#car
+price=30000
+model=model 0
+maker=maker 2
+hp=180
+driver=driver 4
+#end
+#car
+model=model 0
+hp=170
+maker=maker 1
+driver=driver 0
+price=35000
+#end
+#car
+maker=maker 2
+hp=110
+model=model 0
+price=45000
+driver=driver 0
+#end
+#car
+model=model 1
+price=35000
+maker=maker 2
+hp=140
+driver=driver 2
+#end
+#car
+driver=driver 4
+hp=180
+price=25000
+maker=maker 2
+model=model 0
+#end
+#car
+driver=driver 2
+hp=140
+model=model 0
+maker=maker 1
+price=25000
+#end
+#car
+hp=100
+price=25000
+maker=maker 2
+driver=driver 1
+model=model 0
+#end
+#team
+name=team 4
+#end
+#car
+driver=driver 4
+model=model 1
+hp=160
+maker=maker 1
+price=20000
+#end
+#car
+driver=driver 3
+maker=maker 2
+price=40000
+hp=120
+model=model 1
+#end
+#car
+price=35000
+hp=90
+model=model 0
+driver=driver 4
+maker=maker 2
+#end
+#car
+hp=170
+price=20000
+model=model 1
+driver=driver 1
+maker=maker 1
+#end
+#car
+price=20000
+maker=maker 2
+hp=170
+model=model 0
+driver=driver 4
+#end
+#car
+driver=driver 3
+model=model 0
+maker=maker 2
+price=45000
+hp=100
+#end
+#car
+maker=maker 1
+driver=driver 0
+hp=80
+price=30000
+model=model 0
+#end
+#driver
+name=driver 3
+team=team 6
+#end
+#car
+model=model 0
+driver=driver 1
+hp=170
+maker=maker 1
+price=40000
+#end
+#car
+maker=maker 0
+model=model 1
+hp=90
+driver=driver 1
+price=25000
+#end
+#car
+model=model 1
+maker=maker 1
+hp=120
+price=30000
+driver=driver 2
+#end
+#car
+model=model 0
+hp=100
+maker=maker 2
+price=25000
+driver=driver 4
+#end
+#car
+model=model 0
+hp=130
+maker=maker 2
+price=30000
+driver=driver 0
+#end
+#car
+maker=maker 1
+price=35000
+hp=150
+driver=driver 4
+model=model 0
+#end
+#car
+hp=100
+maker=maker 2
+price=40000
+model=model 0
+driver=driver 2
+#end
+#car
+model=model 0
+driver=driver 2
+maker=maker 1
+hp=180
+price=25000
+#end
+#car
+model=model 1
+driver=driver 0
+price=20000
+maker=maker 2
+hp=170
+#end
+#car
+maker=maker 1
+price=45000
+driver=driver 1
+model=model 0
+hp=90
+#end
+#car
+price=40000
+driver=driver 3
+maker=maker 2
+hp=130
+model=model 0
+#end
+#driver
+team=team 8
+name=driver 4
+#end
+#car
+driver=driver 2
+model=model 0
+price=45000
+hp=110
+maker=maker 1
+#end
+#car
+maker=maker 0
+hp=160
+model=model 0
+price=35000
+driver=driver 2
+#end
+#car
+price=25000
+hp=170
+maker=maker 1
+model=model 1
+driver=driver 0
+#end
+#car
+price=20000
+hp=130
+model=model 1
+maker=maker 2
+driver=driver 2
+#end
+#car
+hp=120
+maker=maker 1
+price=35000
+driver=driver 4
+model=model 0
+#end
+#car
+model=model 1
+maker=maker 1
+driver=driver 2
+hp=170
+price=45000
+#end
+#car
+model=model 0
+price=20000
+driver=driver 2
+maker=maker 2
+hp=80
+#end
+#car
+model=model 1
+price=45000
+hp=110
+driver=driver 0
+maker=maker 1
+#end
+#car
+maker=maker 0
+price=30000
+model=model 1
+driver=driver 4
+hp=140
+#end
+#car
+maker=maker 0
+model=model 0
+price=40000
+driver=driver 0
+hp=110
+#end
+#car
+model=model 0
+price=25000
+driver=driver 4
+maker=maker 2
+hp=180
+#end
+#car
+hp=180
+driver=driver 3
+price=20000
+maker=maker 1
+model=model 1
+#end
+#car
+driver=driver 0
+model=model 1
+price=25000
+maker=maker 2
+hp=120
+#end
+#car
+hp=190
+model=model 0
+price=35000
+driver=driver 3
+maker=maker 2
+#end
+#car
+driver=driver 1
+hp=150
+price=40000
+maker=maker 1
+model=model 0
+#end
+#car
+model=model 0
+maker=maker 2
+driver=driver 1
+price=20000
+hp=120
+#end
+#car
+model=model 1
+hp=140
+maker=maker 2
+driver=driver 3
+price=20000
+#end
+#car
+price=30000
+maker=maker 0
+model=model 0
+driver=driver 4
+hp=120
+#end
+#car
+model=model 1
+price=35000
+hp=140
+driver=driver 2
+maker=maker 2
+#end
+#car
+hp=130
+maker=maker 2
+price=45000
+driver=driver 3
+model=model 1
+#end
+#car
+maker=maker 0
+hp=110
+model=model 0
+driver=driver 3
+price=35000
+#end
+#car
+maker=maker 0
+driver=driver 0
+price=35000
+hp=150
+model=model 1
+#end
+#car
+hp=90
+maker=maker 0
+price=25000
+driver=driver 3
+model=model 1
+#end
+#car
+model=model 1
+driver=driver 1
+price=20000
+hp=110
+maker=maker 1
+#end
+#car
+price=30000
+hp=160
+driver=driver 2
+maker=maker 1
+model=model 1
+#end
+#car
+model=model 0
+driver=driver 3
+hp=140
+price=45000
+maker=maker 0
+#end
+#car
+model=model 0
+price=40000
+driver=driver 4
+maker=maker 2
+hp=190
+#end
+#car
+driver=driver 4
+maker=maker 0
+hp=110
+model=model 1
+price=35000
+#end
+#car
+hp=120
+driver=driver 1
+model=model 1
+price=35000
+maker=maker 1
+#end
+#car
+model=model 1
+driver=driver 4
+price=35000
+hp=170
+maker=maker 2
+#end
+#car
+hp=80
+driver=driver 3
+price=35000
+maker=maker 1
+model=model 0
+#end
+#car
+driver=driver 4
+price=45000
+maker=maker 0
+hp=160
+model=model 1
+#end
+#car
+maker=maker 1
+driver=driver 2
+price=45000
+model=model 0
+hp=110
+#end
+#car
+hp=110
+price=45000
+model=model 1
+maker=maker 2
+driver=driver 2
+#end
+#car
+price=20000
+maker=maker 2
+model=model 0
+hp=110
+driver=driver 0
+#end
+#car
+price=45000
+maker=maker 0
+driver=driver 1
+hp=110
+model=model 0
+#end
+#car
+driver=driver 4
+hp=130
+model=model 1
+maker=maker 0
+price=30000
+#end
+#car
+maker=maker 0
+hp=180
+price=25000
+model=model 1
+driver=driver 1
+#end
+#car
+driver=driver 3
+price=30000
+model=model 1
+maker=maker 0
+hp=140
+#end
+#car
+driver=driver 4
+model=model 1
+price=25000
+hp=130
+maker=maker 0
+#end
+#car
+maker=maker 1
+driver=driver 1
+price=20000
+hp=150
+model=model 0
+#end
+#car
+price=45000
+driver=driver 2
+hp=170
+maker=maker 1
+model=model 0
+#end
+#car
+maker=maker 1
+hp=160
+price=40000
+model=model 0
+driver=driver 1
+#end
+#car
+model=model 0
+price=20000
+hp=130
+maker=maker 0
+driver=driver 2
+#end
+#car
+model=model 1
+maker=maker 1
+hp=130
+price=40000
+driver=driver 1
+#end
+#car
+driver=driver 1
+model=model 1
+hp=80
+maker=maker 0
+price=20000
+#end
+#car
+price=45000
+model=model 0
+maker=maker 0
+hp=180
+driver=driver 2
+#end
+#car
+hp=150
+driver=driver 3
+model=model 0
+maker=maker 0
+price=40000
+#end
+#car
+maker=maker 1
+price=20000
+hp=170
+model=model 1
+driver=driver 1
+#end
+#car
+hp=150
+maker=maker 2
+model=model 0
+price=20000
+driver=driver 3
+#end
+#car
+model=model 0
+driver=driver 0
+hp=80
+price=20000
+maker=maker 2
+#end
+#car
+maker=maker 0
+model=model 1
+price=45000
+driver=driver 3
+hp=100
+#end
+#car
+hp=190
+driver=driver 3
+model=model 1
+price=20000
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=180
+driver=driver 3
+model=model 0
+price=30000
+#end
+#car
+hp=190
+driver=driver 0
+maker=maker 0
+price=30000
+model=model 1
+#end
+#car
+maker=maker 2
+price=25000
+hp=120
+driver=driver 0
+model=model 0
+#end
+#car
+model=model 0
+price=20000
+hp=190
+driver=driver 2
+maker=maker 1
+#end
+#team
+name=team 9
+#end
+#car
+driver=driver 1
+maker=maker 1
+hp=160
+price=25000
+model=model 0
+#end
+#driver
+name=driver 4
+team=team 6
+#end
+#team
+name=team 6
+#end
+#car
+driver=driver 3
+hp=100
+maker=maker 2
+price=35000
+model=model 0
+#end
+#car
+hp=90
+model=model 0
+driver=driver 4
+maker=maker 0
+price=30000
+#end
+#car
+driver=driver 0
+model=model 0
+price=25000
+hp=80
+maker=maker 0
+#end
+#driver
+team=team 9
+name=driver 0
+#end
+#car
+price=35000
+maker=maker 1
+model=model 1
+hp=140
+driver=driver 3
+#end
+#car
+model=model 1
+maker=maker 1
+hp=90
+driver=driver 4
+price=30000
+#end
+#car
+maker=maker 0
+price=20000
+model=model 0
+hp=160
+driver=driver 2
+#end
+#car
+price=40000
+driver=driver 0
+model=model 1
+hp=130
+maker=maker 1
+#end
+#car
+driver=driver 0
+price=35000
+hp=110
+maker=maker 1
+model=model 1
+#end
+#car
+hp=100
+model=model 1
+price=40000
+driver=driver 4
+maker=maker 1
+#end
+#car
+price=40000
+driver=driver 3
+maker=maker 0
+model=model 1
+hp=160
+#end
+#car
+price=40000
+maker=maker 1
+hp=100
+model=model 1
+driver=driver 2
+#end
+#car
+model=model 1
+hp=100
+maker=maker 0
+price=40000
+driver=driver 1
+#end
+#car
+model=model 1
+maker=maker 1
+price=40000
+driver=driver 1
+hp=90
+#end
+#car
+maker=maker 1
+price=40000
+hp=170
+model=model 0
+driver=driver 1
+#end
+#car
+driver=driver 1
+model=model 0
+hp=100
+maker=maker 1
+price=35000
+#end
+#car
+maker=maker 2
+model=model 0
+price=40000
+driver=driver 4
+hp=160
+#end
+#car
+price=25000
+driver=driver 3
+maker=maker 1
+model=model 0
+hp=170
+#end
+#car
+price=30000
+maker=maker 1
+model=model 0
+hp=170
+driver=driver 1
+#end
+#car
+maker=maker 0
+driver=driver 2
+model=model 0
+hp=110
+price=40000
+#end
+#car
+price=30000
+maker=maker 1
+hp=90
+model=model 1
+driver=driver 2
+#end
+#car
+hp=180
+maker=maker 2
+model=model 0
+price=45000
+driver=driver 2
+#end
+#car
+driver=driver 3
+price=40000
+hp=120
+model=model 1
+maker=maker 2
+#end
+#car
+maker=maker 2
+price=30000
+driver=driver 0
+model=model 0
+hp=190
+#end
+#driver
+name=driver 2
+team=team 1
+#end
+#car
+maker=maker 1
+price=25000
+hp=130
+model=model 1
+driver=driver 4
+#end
+#car
+model=model 1
+price=40000
+maker=maker 1
+hp=190
+driver=driver 1
+#end
+#car
+price=40000
+maker=maker 2
+hp=180
+driver=driver 0
+model=model 1
+#end
+#car
+price=30000
+hp=190
+maker=maker 0
+model=model 1
+driver=driver 3
+#end
+#driver
+name=driver 0
+team=team 9
+#end
+#car
+model=model 1
+driver=driver 0
+maker=maker 0
+price=40000
+hp=160
+#end
+#car
+price=35000
+maker=maker 2
+hp=170
+driver=driver 2
+model=model 0
+#end
+#car
+driver=driver 1
+maker=maker 2
+hp=90
+price=35000
+model=model 0
+#end
+#car
+driver=driver 4
+price=35000
+hp=190
+maker=maker 2
+model=model 0
+#end
+#car
+price=25000
+hp=110
+maker=maker 0
+driver=driver 0
+model=model 1
+#end
+#car
+driver=driver 4
+hp=80
+price=35000
+model=model 1
+maker=maker 1
+#end
+#car
+hp=130
+price=45000
+maker=maker 1
+driver=driver 3
+model=model 0
+#end
+#car
+maker=maker 0
+hp=110
+driver=driver 2
+model=model 0
+price=40000
+#end
+#car
+maker=maker 1
+price=30000
+driver=driver 4
+model=model 0
+hp=150
+#end
+#car
+hp=130
+model=model 0
+driver=driver 3
+price=45000
+maker=maker 1
+#end
+#car
+driver=driver 2
+price=45000
+hp=140
+model=model 1
+maker=maker 1
+#end
+#car
+maker=maker 2
+hp=170
+price=40000
+driver=driver 1
+model=model 0
+#end
+#car
+price=40000
+model=model 0
+maker=maker 0
+driver=driver 4
+hp=160
+#end
+#car
+maker=maker 2
+driver=driver 3
+price=30000
+model=model 0
+hp=130
+#end
+#car
+hp=110
+price=40000
+model=model 1
+maker=maker 2
+driver=driver 0
+#end
+#car
+model=model 1
+driver=driver 4
+price=45000
+maker=maker 1
+hp=150
+#end
+#car
+hp=140
+driver=driver 0
+price=30000
+maker=maker 0
+model=model 1
+#end
+#car
+price=40000
+driver=driver 1
+hp=110
+model=model 1
+maker=maker 0
+#end
+#car
+model=model 0
+maker=maker 1
+hp=170
+price=40000
+driver=driver 1
+#end
+#car
+price=35000
+hp=160
+driver=driver 1
+maker=maker 0
+model=model 1
+#end
+#car
+maker=maker 1
+price=25000
+hp=150
+driver=driver 0
+model=model 0
+#end
+#car
+model=model 0
+price=45000
+maker=maker 2
+hp=90
+driver=driver 3
+#end
+#car
+driver=driver 2
+price=20000
+maker=maker 1
+hp=110
+model=model 1
+#end
+#car
+maker=maker 0
+price=25000
+driver=driver 2
+hp=100
+model=model 0
+#end
+#car
+maker=maker 1
+model=model 0
+hp=90
+price=40000
+driver=driver 0
+#end
+#car
+hp=180
+model=model 1
+maker=maker 1
+driver=driver 3
+price=35000
+#end
+#car
+price=45000
+driver=driver 0
+model=model 0
+maker=maker 2
+hp=120
+#end
+#car
+model=model 1
+driver=driver 0
+hp=190
+maker=maker 1
+price=45000
+#end
+#car
+price=30000
+driver=driver 1
+hp=150
+model=model 0
+maker=maker 0
+#end
+#car
+hp=150
+driver=driver 4
+maker=maker 0
+price=20000
+model=model 1
+#end
+#car
+maker=maker 1
+driver=driver 0
+model=model 0
+price=25000
+hp=150
+#end
+#car
+driver=driver 4
+hp=80
+price=30000
+model=model 1
+maker=maker 0
+#end
+#car
+maker=maker 1
+driver=driver 4
+hp=120
+model=model 1
+price=20000
+#end
+#car
+price=45000
+driver=driver 0
+model=model 0
+hp=190
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=150
+price=25000
+driver=driver 1
+model=model 1
+#end
+#car
+price=25000
+hp=170
+maker=maker 2
+driver=driver 1
+model=model 1
+#end
+#car
+model=model 1
+price=25000
+hp=110
+driver=driver 2
+maker=maker 1
+#end
+#car
+maker=maker 2
+model=model 1
+price=45000
+driver=driver 1
+hp=140
+#end
+#car
+maker=maker 0
+hp=170
+model=model 0
+driver=driver 3
+price=30000
+#end
+#car
+price=30000
+maker=maker 0
+driver=driver 4
+hp=180
+model=model 1
+#end
+#car
+hp=180
+maker=maker 1
+price=25000
+driver=driver 0
+model=model 1
+#end
+#car
+model=model 1
+hp=150
+maker=maker 1
+driver=driver 1
+price=25000
+#end
+#car
+price=20000
+model=model 0
+maker=maker 0
+driver=driver 0
+hp=110
+#end
+#car
+price=25000
+driver=driver 4
+hp=90
+maker=maker 2
+model=model 0
+#end
+#car
+driver=driver 1
+price=45000
+model=model 1
+hp=100
+maker=maker 2
+#end
+#car
+hp=120
+price=45000
+driver=driver 1
+model=model 0
+maker=maker 0
+#end
+#car
+price=20000
+maker=maker 2
+hp=190
+driver=driver 3
+model=model 0
+#end
+#car
+maker=maker 0
+hp=100
+price=45000
+model=model 1
+driver=driver 3
+#end
+#car
+model=model 1
+driver=driver 2
+maker=maker 1
+price=45000
+hp=160
+#end
+#car
+maker=maker 1
+price=20000
+driver=driver 3
+hp=180
+model=model 0
+#end
+#car
+hp=90
+maker=maker 0
+price=45000
+driver=driver 2
+model=model 1
+#end
+#car
+maker=maker 1
+driver=driver 3
+price=35000
+model=model 1
+hp=180
+#end
+#car
+maker=maker 0
+model=model 0
+price=35000
+driver=driver 1
+hp=170
+#end
+#car
+price=35000
+maker=maker 0
+model=model 0
+hp=160
+driver=driver 2
+#end
+#car
+hp=130
+driver=driver 4
+price=40000
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=110
+driver=driver 4
+price=35000
+model=model 1
+#end
+#car
+price=35000
+maker=maker 2
+model=model 1
+hp=80
+driver=driver 3
+#end
+#car
+model=model 0
+driver=driver 3
+maker=maker 2
+price=40000
+hp=90
+#end
+#car
+hp=140
+model=model 1
+driver=driver 0
+maker=maker 2
+price=25000
+#end
+#car
+driver=driver 1
+hp=130
+price=45000
+model=model 1
+maker=maker 1
+#end
+#car
+price=35000
+maker=maker 0
+driver=driver 0
+hp=100
+model=model 0
+#end
+#car
+hp=110
+model=model 1
+maker=maker 1
+price=20000
+driver=driver 0
+#end
+#car
+maker=maker 1
+model=model 1
+driver=driver 3
+hp=160
+price=40000
+#end
+#car
+driver=driver 4
+hp=170
+model=model 1
+price=40000
+maker=maker 0
+#end
+#car
+hp=130
+price=25000
+driver=driver 4
+model=model 1
+maker=maker 0
+#end
+#car
+price=25000
+model=model 0
+hp=90
+maker=maker 0
+driver=driver 0
+#end
+#car
+hp=100
+driver=driver 0
+price=25000
+model=model 1
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=90
+price=20000
+model=model 1
+driver=driver 1
+#end
+#car
+hp=140
+maker=maker 2
+price=25000
+driver=driver 0
+model=model 1
+#end
+#car
+model=model 1
+hp=160
+maker=maker 2
+price=25000
+driver=driver 0
+#end
+#car
+maker=maker 0
+driver=driver 2
+price=30000
+model=model 1
+hp=190
+#end
+#car
+hp=90
+driver=driver 1
+model=model 1
+price=40000
+maker=maker 1
+#end
+#driver
+name=driver 1
+team=team 1
+#end
+#car
+driver=driver 4
+maker=maker 1
+price=40000
+model=model 0
+hp=150
+#end
+#car
+hp=100
+maker=maker 0
+driver=driver 1
+price=20000
+model=model 1
+#end
+#car
+maker=maker 0
+model=model 1
+price=40000
+driver=driver 2
+hp=100
+#end
+#car
+model=model 1
+hp=160
+driver=driver 2
+maker=maker 2
+price=35000
+#end
+#car
+price=45000
+driver=driver 3
+maker=maker 2
+model=model 1
+hp=140
+#end
+#car
+price=40000
+driver=driver 0
+hp=160
+maker=maker 0
+model=model 1
+#end
+#car
+hp=190
+price=30000
+model=model 1
+maker=maker 0
+driver=driver 0
+#end
+#car
+price=35000
+maker=maker 2
+hp=170
+driver=driver 2
+model=model 0
+#end
+#car
+price=25000
+driver=driver 0
+hp=160
+model=model 1
+maker=maker 1
+#end
+#car
+hp=150
+price=40000
+driver=driver 3
+maker=maker 2
+model=model 1
+#end
+#car
+driver=driver 3
+maker=maker 0
+price=25000
+hp=110
+model=model 0
+#end
+#car
+price=30000
+maker=maker 0
+model=model 1
+hp=90
+driver=driver 0
+#end
+#car
+hp=90
+driver=driver 1
+maker=maker 2
+model=model 0
+price=40000
+#end
+#car
+model=model 0
+maker=maker 2
+driver=driver 2
+price=25000
+hp=150
+#end
+#car
+model=model 1
+maker=maker 2
+price=40000
+driver=driver 1
+hp=100
+#end
+#car
+model=model 0
+hp=80
+price=25000
+driver=driver 3
+maker=maker 0
+#end
+#car
+hp=110
+price=40000
+model=model 1
+maker=maker 1
+driver=driver 0
+#end
+#car
+price=45000
+hp=150
+driver=driver 4
+maker=maker 1
+model=model 0
+#end
+#car
+price=35000
+maker=maker 2
+driver=driver 0
+model=model 0
+hp=160
+#end
+#car
+driver=driver 1
+model=model 1
+hp=130
+price=35000
+maker=maker 1
+#end
+#car
+maker=maker 1
+hp=140
+model=model 0
+driver=driver 1
+price=45000
+#end
+#car
+price=20000
+maker=maker 0
+driver=driver 2
+model=model 0
+hp=180
+#end
+#car
+driver=driver 4
+model=model 0
+maker=maker 2
+hp=150
+price=40000
+#end
+#car
+hp=190
+driver=driver 0
+maker=maker 2
+model=model 0
+price=45000
+#end
+#car
+model=model 0
+maker=maker 2
+price=45000
+driver=driver 3
+hp=100
+#end
+#car
+hp=130
+driver=driver 1
+model=model 1
+price=45000
+maker=maker 0
+#end
+#car
+model=model 1
+maker=maker 0
+driver=driver 1
+price=30000
+hp=170
+#end
+#car
+price=40000
+driver=driver 3
+hp=150
+maker=maker 2
+model=model 0
+#end
+#car
+price=25000
+hp=190
+model=model 1
+maker=maker 2
+driver=driver 0
+#end
+#car
+model=model 1
+hp=90
+price=35000
+maker=maker 1
+driver=driver 1
+#end
+#car
+driver=driver 4
+price=25000
+hp=120
+model=model 1
+maker=maker 1
+#end
+#car
+hp=100
+model=model 0
+maker=maker 2
+price=35000
+driver=driver 3
+#end
+#car
+hp=130
+model=model 0
+maker=maker 2
+driver=driver 3
+price=40000
+#end
+#car
+hp=170
+driver=driver 3
+price=45000
+model=model 1
+maker=maker 2
+#end
+#car
+price=30000
+model=model 1
+maker=maker 0
+hp=120
+driver=driver 4
+#end
+#driver
+team=team 5
+name=driver 3
+#end
+#car
+price=30000
+model=model 1
+hp=160
+maker=maker 0
+driver=driver 0
+#end
+#car
+maker=maker 2
+driver=driver 3
+price=40000
+hp=130
+model=model 1
+#end
+#car
+model=model 1
+maker=maker 2
+driver=driver 4
+price=45000
+hp=130
+#end
+#car
+model=model 0
+hp=140
+price=30000
+driver=driver 4
+maker=maker 2
+#end
+#car
+hp=160
+maker=maker 2
+driver=driver 1
+model=model 1
+price=45000
+#end
+#car
+price=30000
+maker=maker 0
+hp=160
+driver=driver 4
+model=model 0
+#end
+#car
+model=model 0
+driver=driver 4
+maker=maker 1
+price=25000
+hp=120
+#end
+#car
+model=model 0
+maker=maker 2
+hp=150
+driver=driver 3
+price=45000
+#end
+#car
+model=model 1
+driver=driver 1
+hp=150
+price=40000
+maker=maker 0
+#end
+#car
+price=45000
+hp=130
+driver=driver 4
+model=model 1
+maker=maker 0
+#end
+#car
+price=45000
+maker=maker 2
+driver=driver 0
+hp=110
+model=model 1
+#end
+#car
+model=model 0
+driver=driver 1
+maker=maker 1
+hp=110
+price=35000
+#end
+#car
+price=35000
+driver=driver 0
+model=model 1
+hp=90
+maker=maker 2
+#end
+#car
+hp=150
+model=model 1
+maker=maker 2
+price=35000
+driver=driver 2
+#end
+#car
+maker=maker 1
+model=model 1
+driver=driver 0
+hp=140
+price=30000
+#end
+#driver
+name=driver 4
+team=team 3
+#end
+#car
+hp=140
+driver=driver 0
+model=model 1
+price=45000
+maker=maker 2
+#end
+#car
+price=25000
+driver=driver 2
+model=model 1
+hp=170
+maker=maker 0
+#end
+#car
+price=25000
+model=model 0
+driver=driver 4
+maker=maker 0
+hp=140
+#end
+#car
+price=45000
+maker=maker 1
+driver=driver 2
+model=model 0
+hp=190
+#end
+#car
+maker=maker 0
+driver=driver 0
+hp=180
+model=model 0
+price=20000
+#end
+#car
+driver=driver 4
+hp=100
+price=20000
+maker=maker 2
+model=model 0
+#end
+#car
+price=35000
+maker=maker 0
+model=model 0
+driver=driver 3
+hp=160
+#end
+#car
+driver=driver 2
+hp=150
+model=model 1
+maker=maker 1
+price=45000
+#end
+#car
+driver=driver 2
+maker=maker 1
+model=model 1
+hp=170
+price=35000
+#end
+#car
+driver=driver 0
+price=35000
+model=model 0
+maker=maker 2
+hp=180
+#end
+#car
+price=30000
+model=model 1
+driver=driver 1
+maker=maker 0
+hp=180
+#end
+#car
+model=model 1
+maker=maker 2
+hp=100
+price=45000
+driver=driver 1
+#end
+#car
+maker=maker 0
+hp=170
+model=model 1
+price=45000
+driver=driver 2
+#end
+#driver
+name=driver 1
+team=team 2
+#end
+#car
+driver=driver 2
+model=model 1
+price=40000
+hp=80
+maker=maker 1
+#end
+#car
+model=model 0
+hp=160
+driver=driver 0
+maker=maker 2
+price=20000
+#end
+#car
+model=model 1
+driver=driver 1
+maker=maker 1
+price=40000
+hp=160
+#end
+#car
+maker=maker 1
+model=model 1
+driver=driver 1
+price=40000
+hp=190
+#end
+#car
+maker=maker 2
+model=model 0
+hp=80
+price=45000
+driver=driver 2
+#end
+#car
+price=30000
+hp=120
+maker=maker 0
+driver=driver 1
+model=model 0
+#end
+#car
+model=model 0
+price=40000
+maker=maker 2
+hp=140
+driver=driver 0
+#end
+#car
+price=35000
+maker=maker 0
+model=model 0
+driver=driver 0
+hp=140
+#end
+#car
+driver=driver 3
+price=40000
+maker=maker 2
+hp=160
+model=model 0
+#end
+#car
+maker=maker 0
+model=model 0
+hp=190
+price=20000
+driver=driver 4
+#end
+#car
+price=30000
+hp=110
+maker=maker 2
+model=model 0
+driver=driver 2
+#end
+#car
+price=25000
+hp=170
+driver=driver 3
+model=model 0
+maker=maker 2
+#end
+#car
+driver=driver 3
+price=20000
+model=model 1
+maker=maker 0
+hp=150
+#end
+#car
+hp=110
+maker=maker 2
+driver=driver 1
+model=model 1
+price=30000
+#end
+#car
+driver=driver 0
+maker=maker 0
+model=model 1
+price=20000
+hp=170
+#end
+#car
+price=35000
+hp=190
+maker=maker 2
+model=model 0
+driver=driver 1
+#end
+#car
+hp=110
+model=model 1
+price=40000
+maker=maker 1
+driver=driver 4
+#end
+#car
+model=model 1
+maker=maker 2
+driver=driver 0
+hp=130
+price=20000
+#end
+#car
+hp=130
+model=model 0
+price=30000
+maker=maker 1
+driver=driver 4
+#end
+#car
+model=model 1
+price=20000
+driver=driver 2
+hp=170
+maker=maker 0
+#end
+#car
+hp=180
+driver=driver 1
+price=40000
+model=model 1
+maker=maker 1
+#end
+#car
+price=45000
+maker=maker 0
+driver=driver 1
+hp=90
+model=model 0
+#end
+#car
+hp=160
+driver=driver 2
+model=model 1
+maker=maker 2
+price=35000
+#end
+#car
+driver=driver 1
+model=model 1
+maker=maker 2
+price=35000
+hp=190
+#end
+#car
+driver=driver 2
+hp=120
+price=45000
+model=model 1
+maker=maker 1
+#end
+#car
+hp=180
+driver=driver 2
+maker=maker 0
+model=model 0
+price=45000
+#end
+#car
+hp=100
+driver=driver 3
+maker=maker 0
+price=35000
+model=model 0
+#end
+#car
+maker=maker 2
+hp=90
+driver=driver 1
+price=35000
+model=model 1
+#end
+#car
+price=40000
+model=model 0
+maker=maker 1
+driver=driver 3
+hp=90
+#end
+#car
+hp=170
+driver=driver 2
+price=40000
+maker=maker 1
+model=model 1
+#end
+#car
+hp=90
+price=25000
+model=model 0
+driver=driver 1
+maker=maker 2
+#end
+#car
+maker=maker 2
+hp=90
+price=40000
+model=model 0
+driver=driver 1
+#end
+#car
+maker=maker 2
+hp=170
+model=model 1
+price=30000
+driver=driver 4
+#end
+#car
+maker=maker 2
+driver=driver 1
+model=model 0
+price=45000
+hp=150
+#end
+#car
+hp=130
+maker=maker 2
+driver=driver 3
+model=model 0
+price=40000
+#end
+#car
+model=model 0
+hp=110
+driver=driver 0
+maker=maker 0
+price=25000
+#end
+#car
+hp=140
+price=40000
+driver=driver 4
+maker=maker 0
+model=model 1
+#end
+#car
+driver=driver 2
+maker=maker 2
+price=25000
+model=model 0
+hp=140
+#end
+#car
+price=25000
+maker=maker 1
+driver=driver 2
+hp=120
+model=model 0
+#end
+#car
+hp=180
+maker=maker 0
+price=30000
+model=model 0
+driver=driver 4
+#end
+#car
+maker=maker 1
+hp=180
+driver=driver 0
+model=model 0
+price=40000
+#end
+#car
+price=30000
+driver=driver 0
+maker=maker 2
+hp=110
+model=model 1
+#end
+#car
+price=45000
+maker=maker 0
+model=model 1
+driver=driver 2
+hp=170
+#end
+#car
+driver=driver 4
+hp=170
+maker=maker 0
+model=model 1
+price=40000
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 1
+price=45000
+hp=100
+#end
+#car
+driver=driver 4
+price=25000
+model=model 0
+hp=190
+maker=maker 2
+#end
+#car
+model=model 1
+maker=maker 1
+price=35000
+driver=driver 2
+hp=80
+#end
+#car
+price=25000
+driver=driver 3
+hp=140
+model=model 0
+maker=maker 2
+#end
+#car
+model=model 0
+hp=120
+price=35000
+driver=driver 3
+maker=maker 2
+#end
+#car
+driver=driver 2
+hp=80
+maker=maker 2
+price=30000
+model=model 1
+#end
+#car
+hp=120
+maker=maker 1
+driver=driver 4
+model=model 0
+price=20000
+#end
+#car
+driver=driver 2
+maker=maker 1
+hp=120
+model=model 0
+price=30000
+#end
+#car
+driver=driver 0
+hp=120
+maker=maker 1
+price=25000
+model=model 0
+#end
+#car
+price=25000
+driver=driver 4
+model=model 1
+maker=maker 2
+hp=100
+#end
+#car
+driver=driver 4
+model=model 1
+price=20000
+maker=maker 2
+hp=150
+#end
+#car
+maker=maker 0
+model=model 1
+driver=driver 2
+price=35000
+hp=160
+#end
+#car
+price=30000
+hp=150
+model=model 0
+maker=maker 0
+driver=driver 3
+#end
+#car
+maker=maker 0
+model=model 0
+price=45000
+hp=100
+driver=driver 1
+#end
+#car
+maker=maker 0
+price=25000
+model=model 1
+driver=driver 0
+hp=120
+#end
+#car
+price=35000
+model=model 1
+hp=90
+maker=maker 1
+driver=driver 0
+#end
+#car
+hp=130
+maker=maker 2
+price=20000
+driver=driver 1
+model=model 0
+#end
+#car
+driver=driver 1
+hp=140
+maker=maker 1
+price=20000
+model=model 0
+#end
+#car
+model=model 0
+hp=90
+driver=driver 1
+price=40000
+maker=maker 0
+#end
+#car
+driver=driver 3
+model=model 1
+maker=maker 0
+price=45000
+hp=160
+#end
+#car
+maker=maker 0
+price=20000
+hp=140
+model=model 1
+driver=driver 4
+#end
+#car
+model=model 0
+price=30000
+hp=150
+maker=maker 0
+driver=driver 4
+#end
+#car
+maker=maker 1
+price=20000
+hp=90
+driver=driver 3
+model=model 1
+#end
+#driver
+name=driver 4
+team=team 9
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 0
+hp=110
+price=35000
+#end
+#car
+hp=180
+model=model 1
+driver=driver 0
+maker=maker 2
+price=20000
+#end
+#car
+model=model 1
+hp=190
+price=35000
+driver=driver 3
+maker=maker 1
+#end
+#car
+price=25000
+model=model 0
+maker=maker 1
+hp=180
+driver=driver 0
+#end
+#car
+hp=110
+driver=driver 1
+maker=maker 1
+price=30000
+model=model 0
+#end
+#car
+driver=driver 4
+maker=maker 2
+model=model 0
+hp=170
+price=45000
+#end
+#car
+driver=driver 1
+maker=maker 0
+model=model 1
+hp=140
+price=25000
+#end
+#car
+hp=110
+price=45000
+maker=maker 1
+driver=driver 4
+model=model 0
+#end
+#car
+hp=190
+model=model 0
+driver=driver 1
+maker=maker 1
+price=35000
+#end
+#car
+price=40000
+maker=maker 0
+model=model 1
+driver=driver 0
+hp=170
+#end
+#car
+maker=maker 0
+hp=140
+model=model 1
+driver=driver 1
+price=20000
+#end
+#car
+model=model 0
+maker=maker 2
+price=35000
+hp=180
+driver=driver 2
+#end
+#car
+price=20000
+driver=driver 4
+model=model 0
+hp=110
+maker=maker 0
+#end
+#driver
+team=team 2
+name=driver 0
+#end
+#car
+driver=driver 3
+maker=maker 2
+model=model 0
+price=45000
+hp=190
+#end
+#car
+hp=140
+driver=driver 2
+maker=maker 2
+price=30000
+model=model 0
+#end
+#car
+hp=140
+model=model 0
+maker=maker 2
+price=20000
+driver=driver 2
+#end
+#driver
+team=team 7
+name=driver 0
+#end
+#driver
+team=team 0
+name=driver 3
+#end
+#car
+maker=maker 2
+model=model 1
+hp=160
+driver=driver 4
+price=30000
+#end
+#car
+maker=maker 0
+price=20000
+driver=driver 0
+hp=160
+model=model 1
+#end
+#driver
+team=team 0
+name=driver 3
+#end
+#car
+hp=140
+model=model 0
+price=45000
+driver=driver 0
+maker=maker 0
+#end
+#car
+driver=driver 3
+price=20000
+maker=maker 0
+model=model 1
+hp=170
+#end
+#car
+model=model 0
+maker=maker 1
+hp=100
+driver=driver 2
+price=20000
+#end
+#car
+maker=maker 1
+driver=driver 0
+hp=110
+model=model 1
+price=35000
+#end
+#car
+price=40000
+hp=110
+driver=driver 1
+model=model 1
+maker=maker 2
+#end
+#car
+price=30000
+hp=80
+model=model 1
+maker=maker 1
+driver=driver 3
+#end
+#car
+price=30000
+model=model 1
+hp=150
+maker=maker 1
+driver=driver 1
+#end
+#driver
+name=driver 4
+team=team 6
+#end
+#driver
+name=driver 2
+team=team 2
+#end
+#car
+driver=driver 4
+hp=100
+model=model 0
+maker=maker 2
+price=45000
+#end
+#car
+maker=maker 1
+hp=180
+model=model 0
+driver=driver 3
+price=25000
+#end
+#car
+model=model 1
+hp=140
+price=45000
+maker=maker 2
+driver=driver 0
+#end
+#car
+model=model 1
+driver=driver 0
+hp=180
+maker=maker 0
+price=30000
+#end
+#car
+maker=maker 1
+price=35000
+model=model 0
+driver=driver 0
+hp=90
+#end
+#car
+price=35000
+driver=driver 4
+hp=180
+model=model 1
+maker=maker 2
+#end
+#car
+price=40000
+model=model 0
+driver=driver 2
+maker=maker 2
+hp=140
+#end
+#car
+model=model 1
+driver=driver 0
+maker=maker 1
+hp=80
+price=35000
+#end
+#car
+driver=driver 2
+model=model 1
+maker=maker 0
+hp=160
+price=20000
+#end
+#car
+price=30000
+maker=maker 0
+driver=driver 3
+hp=180
+model=model 1
+#end
+#car
+model=model 1
+hp=90
+price=25000
+driver=driver 3
+maker=maker 0
+#end
+#driver
+name=driver 1
+team=team 4
+#end
+#car
+driver=driver 4
+model=model 0
+price=20000
+hp=170
+maker=maker 0
+#end
+#car
+hp=130
+maker=maker 2
+driver=driver 4
+price=25000
+model=model 0
+#end
+#car
+maker=maker 0
+model=model 0
+driver=driver 2
+hp=130
+price=45000
+#end
+#car
+hp=120
+maker=maker 2
+driver=driver 0
+model=model 1
+price=40000
+#end
+#car
+model=model 1
+hp=110
+driver=driver 2
+maker=maker 1
+price=40000
+#end
+#car
+model=model 0
+price=20000
+maker=maker 0
+hp=80
+driver=driver 1
+#end
+#car
+model=model 0
+driver=driver 2
+price=30000
+hp=140
+maker=maker 2
+#end
+#car
+maker=maker 1
+hp=80
+price=30000
+model=model 1
+driver=driver 0
+#end
+#driver
+team=team 4
+name=driver 4
+#end
+#car
+hp=80
+price=30000
+driver=driver 4
+maker=maker 2
+model=model 1
+#end
+#car
+price=30000
+model=model 1
+hp=180
+driver=driver 2
+maker=maker 1
+#end
+#car
+model=model 1
+hp=190
+driver=driver 2
+price=30000
+maker=maker 2
+#end
+#car
+price=45000
+model=model 1
+driver=driver 4
+hp=160
+maker=maker 0
+#end
+#car
+driver=driver 3
+model=model 0
+price=25000
+hp=190
+maker=maker 0
+#end
+#driver
+name=driver 0
+team=team 3
+#end
+#car
+maker=maker 1
+price=20000
+model=model 1
+driver=driver 2
+hp=110
+#end
+#car
+driver=driver 2
+maker=maker 1
+price=25000
+hp=100
+model=model 0
+#end
+#car
+driver=driver 3
+model=model 0
+price=20000
+hp=180
+maker=maker 1
+#end
+#car
+driver=driver 2
+price=45000
+maker=maker 1
+hp=120
+model=model 1
+#end
+#car
+driver=driver 0
+model=model 0
+maker=maker 2
+price=40000
+hp=120
+#end
+#car
+price=20000
+hp=100
+driver=driver 2
+maker=maker 1
+model=model 0
+#end
+#car
+maker=maker 1
+hp=140
+driver=driver 0
+price=35000
+model=model 1
+#end
+#car
+driver=driver 0
+price=20000
+model=model 0
+hp=180
+maker=maker 1
+#end
+#car
+price=35000
+maker=maker 1
+model=model 0
+hp=90
+driver=driver 1
+#end
+#car
+price=30000
+hp=110
+model=model 1
+maker=maker 2
+driver=driver 3
+#end
+#car
+hp=130
+maker=maker 2
+driver=driver 2
+model=model 0
+price=25000
+#end
+#car
+hp=120
+price=20000
+model=model 0
+driver=driver 4
+maker=maker 2
+#end
+#car
+price=35000
+driver=driver 2
+hp=150
+maker=maker 0
+model=model 0
+#end
+#car
+maker=maker 2
+driver=driver 0
+model=model 0
+price=20000
+hp=160
+#end
+#car
+price=35000
+hp=170
+model=model 0
+maker=maker 2
+driver=driver 4
+#end
+#car
+maker=maker 0
+price=45000
+model=model 1
+hp=170
+driver=driver 3
+#end
+#car
+price=30000
+maker=maker 0
+hp=160
+driver=driver 3
+model=model 0
+#end
+#car
+driver=driver 0
+maker=maker 0
+price=30000
+model=model 1
+hp=80
+#end
+#car
+maker=maker 1
+model=model 0
+hp=120
+driver=driver 0
+price=45000
+#end
+#car
+model=model 0
+driver=driver 3
+price=35000
+hp=110
+maker=maker 0
+#end
+#driver
+name=driver 1
+team=team 9
+#end
+#car
+price=25000
+driver=driver 3
+maker=maker 1
+model=model 0
+hp=140
+#end
+#car
+maker=maker 2
+price=45000
+driver=driver 2
+model=model 1
+hp=190
+#end
+#car
+driver=driver 0
+hp=90
+model=model 0
+maker=maker 1
+price=25000
+#end
+#car
+maker=maker 1
+hp=100
+price=30000
+model=model 1
+driver=driver 3
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 3
+hp=120
+price=20000
+#end
+#car
+model=model 1
+driver=driver 0
+price=25000
+maker=maker 0
+hp=170
+#end
+#car
+model=model 0
+maker=maker 1
+hp=90
+driver=driver 2
+price=45000
+#end
+#car
+driver=driver 1
+model=model 1
+hp=90
+maker=maker 2
+price=45000
+#end
+#car
+driver=driver 3
+price=20000
+model=model 1
+hp=160
+maker=maker 2
+#end
+#car
+model=model 0
+driver=driver 1
+maker=maker 0
+price=30000
+hp=130
+#end
+#car
+maker=maker 1
+driver=driver 2
+price=30000
+hp=90
+model=model 0
+#end
+#car
+model=model 1
+maker=maker 2
+price=35000
+hp=100
+driver=driver 4
+#end
+#car
+model=model 0
+maker=maker 1
+driver=driver 3
+hp=80
+price=35000
+#end
+#car
+driver=driver 3
+model=model 0
+hp=130
+maker=maker 2
+price=35000
+#end
+#car
+hp=140
+driver=driver 2
+price=35000
+maker=maker 0
+model=model 1
+#end
+#car
+driver=driver 0
+model=model 1
+hp=80
+price=20000
+maker=maker 0
+#end
+#car
+price=20000
+model=model 1
+maker=maker 1
+hp=150
+driver=driver 1
+#end
+#car
+maker=maker 1
+driver=driver 2
+price=25000
+hp=130
+model=model 0
+#end
+#car
+price=45000
+hp=180
+maker=maker 0
+model=model 0
+driver=driver 2
+#end
+#car
+hp=190
+driver=driver 4
+model=model 1
+maker=maker 1
+price=20000
+#end
+#car
+price=45000
+model=model 1
+hp=80
+maker=maker 2
+driver=driver 1
+#end
+#car
+maker=maker 2
+model=model 1
+hp=160
+price=25000
+driver=driver 1
+#end
+#car
+model=model 1
+maker=maker 0
+driver=driver 2
+price=35000
+hp=160
+#end
+#car
+price=30000
+driver=driver 3
+hp=150
+model=model 1
+maker=maker 0
+#end
+#car
+maker=maker 0
+model=model 1
+driver=driver 4
+hp=160
+price=35000
+#end
+#car
+maker=maker 0
+model=model 1
+driver=driver 1
+hp=140
+price=40000
+#end
+#car
+maker=maker 0
+price=25000
+model=model 1
+driver=driver 2
+hp=80
+#end
+#car
+hp=100
+maker=maker 1
+model=model 0
+price=20000
+driver=driver 1
+#end
+#car
+maker=maker 2
+price=35000
+model=model 1
+hp=170
+driver=driver 1
+#end
+#car
+maker=maker 1
+hp=160
+price=30000
+driver=driver 0
+model=model 1
+#end
+#car
+model=model 0
+driver=driver 4
+maker=maker 0
+price=40000
+hp=150
+#end
+#car
+driver=driver 1
+price=45000
+model=model 0
+maker=maker 0
+hp=190
+#end
+#car
+model=model 0
+hp=150
+maker=maker 1
+driver=driver 1
+price=25000
+#end
+#car
+hp=140
+driver=driver 0
+model=model 0
+maker=maker 0
+price=45000
+#end
+#driver
+name=driver 3
+team=team 8
+#end
+#car
+driver=driver 3
+hp=190
+model=model 1
+maker=maker 2
+price=25000
+#end
+#car
+hp=100
+price=30000
+maker=maker 0
+model=model 0
+driver=driver 1
+#end
+#car
+model=model 0
+driver=driver 3
+price=30000
+hp=160
+maker=maker 0
+#end
+#car
+model=model 0
+price=20000
+hp=80
+driver=driver 1
+maker=maker 2
+#end
+#car
+model=model 0
+hp=110
+driver=driver 4
+maker=maker 1
+price=30000
+#end
+#car
+maker=maker 0
+hp=140
+driver=driver 4
+price=40000
+model=model 0
+#end
+#car
+maker=maker 2
+price=45000
+hp=190
+model=model 0
+driver=driver 0
+#end
+#car
+model=model 0
+driver=driver 3
+price=25000
+hp=120
+maker=maker 2
+#end
+#car
+driver=driver 3
+hp=160
+price=45000
+model=model 1
+maker=maker 1
+#end
+#car
+model=model 1
+price=35000
+maker=maker 1
+driver=driver 4
+hp=80
+#end
+#car
+maker=maker 0
+hp=190
+price=40000
+driver=driver 0
+model=model 1
+#end
+#team
+name=team 3
+#end
+#car
+model=model 1
+price=40000
+driver=driver 1
+hp=190
+maker=maker 2
+#end
+#car
+maker=maker 2
+price=20000
+driver=driver 1
+model=model 0
+hp=90
+#end
+#car
+driver=driver 2
+hp=150
+model=model 0
+price=25000
+maker=maker 1
+#end
+#car
+hp=90
+maker=maker 1
+model=model 0
+price=40000
+driver=driver 2
+#end
+#car
+model=model 1
+price=45000
+driver=driver 0
+maker=maker 0
+hp=190
+#end
+#car
+price=40000
+hp=180
+maker=maker 2
+driver=driver 1
+model=model 1
+#end
+#car
+driver=driver 1
+price=25000
+hp=190
+model=model 1
+maker=maker 2
+#end
+#car
+model=model 1
+maker=maker 2
+hp=80
+driver=driver 3
+price=25000
+#end
+#car
+price=25000
+driver=driver 4
+model=model 0
+maker=maker 0
+hp=150
+#end
+#car
+driver=driver 0
+maker=maker 2
+price=35000
+hp=170
+model=model 1
+#end
+#car
+price=45000
+driver=driver 0
+model=model 0
+maker=maker 1
+hp=110
+#end
+#car
+driver=driver 0
+price=35000
+maker=maker 2
+hp=90
+model=model 1
+#end
+#car
+hp=80
+model=model 0
+driver=driver 1
+maker=maker 2
+price=30000
+#end
+#car
+driver=driver 0
+model=model 1
+maker=maker 1
+price=40000
+hp=170
+#end
+#car
+driver=driver 3
+price=40000
+hp=130
+maker=maker 1
+model=model 0
+#end
+#car
+maker=maker 2
+price=45000
+hp=150
+driver=driver 4
+model=model 1
+#end
+#car
+driver=driver 3
+model=model 1
+maker=maker 0
+price=40000
+hp=80
+#end
+#car
+model=model 0
+maker=maker 1
+driver=driver 2
+price=35000
+hp=170
+#end
+#car
+model=model 1
+driver=driver 2
+price=45000
+maker=maker 1
+hp=110
+#end
+#car
+hp=180
+driver=driver 2
+maker=maker 1
+model=model 0
+price=25000
+#end
+#car
+price=25000
+model=model 0
+maker=maker 1
+hp=180
+driver=driver 4
+#end
+#car
+price=45000
+driver=driver 2
+maker=maker 1
+hp=80
+model=model 1
+#end
+#car
+maker=maker 1
+price=20000
+driver=driver 3
+hp=110
+model=model 0
+#end
+#car
+price=45000
+maker=maker 1
+model=model 1
+driver=driver 0
+hp=120
+#end
+#car
+driver=driver 1
+price=40000
+hp=190
+maker=maker 0
+model=model 0
+#end
+#car
+hp=120
+driver=driver 0
+model=model 1
+maker=maker 1
+price=20000
+#end
+#car
+model=model 0
+driver=driver 4
+hp=90
+maker=maker 0
+price=30000
+#end
+#car
+price=20000
+model=model 1
+hp=100
+maker=maker 1
+driver=driver 1
+#end
+#car
+maker=maker 0
+driver=driver 3
+hp=160
+model=model 0
+price=25000
+#end
+#car
+maker=maker 0
+price=30000
+model=model 0
+hp=110
+driver=driver 3
+#end
+#car
+driver=driver 0
+maker=maker 1
+model=model 1
+price=40000
+hp=190
+#end
+#car
+model=model 1
+maker=maker 0
+price=20000
+driver=driver 0
+hp=170
+#end
+#car
+price=25000
+maker=maker 2
+model=model 0
+hp=80
+driver=driver 4
+#end
+#car
+hp=190
+maker=maker 0
+driver=driver 3
+model=model 1
+price=45000
+#end
+#car
+model=model 0
+maker=maker 1
+price=45000
+driver=driver 1
+hp=170
+#end
+#car
+model=model 1
+maker=maker 0
+driver=driver 4
+price=20000
+hp=110
+#end
+#driver
+name=driver 2
+team=team 3
+#end
+#car
+driver=driver 1
+price=45000
+hp=120
+maker=maker 1
+model=model 0
+#end
+#driver
+name=driver 0
+team=team 1
+#end
+#car
+model=model 0
+price=35000
+driver=driver 3
+hp=110
+maker=maker 0
+#end
+#car
+hp=190
+maker=maker 0
+model=model 1
+driver=driver 4
+price=20000
+#end
+#car
+price=35000
+hp=80
+driver=driver 0
+model=model 0
+maker=maker 2
+#end
+#car
+hp=130
+price=25000
+model=model 0
+driver=driver 0
+maker=maker 1
+#end
+#car
+driver=driver 3
+price=40000
+hp=190
+model=model 1
+maker=maker 0
+#end
+#car
+price=25000
+model=model 0
+maker=maker 0
+hp=100
+driver=driver 4
+#end
+#car
+driver=driver 0
+maker=maker 0
+hp=170
+price=30000
+model=model 1
+#end
+#car
+driver=driver 1
+price=25000
+model=model 1
+maker=maker 2
+hp=110
+#end
+#car
+driver=driver 4
+model=model 1
+hp=100
+price=25000
+maker=maker 1
+#end
+#car
+maker=maker 0
+driver=driver 4
+hp=130
+price=30000
+model=model 1
+#end
+#car
+hp=90
+maker=maker 2
+driver=driver 4
+model=model 1
+price=45000
+#end
+#car
+hp=90
+model=model 1
+driver=driver 2
+maker=maker 1
+price=25000
+#end
+#car
+price=40000
+hp=100
+maker=maker 0
+model=model 0
+driver=driver 3
+#end
+#car
+hp=110
+maker=maker 1
+price=45000
+driver=driver 0
+model=model 0
+#end
+#car
+model=model 0
+hp=160
+price=35000
+driver=driver 0
+maker=maker 0
+#end
+#car
+model=model 0
+price=40000
+maker=maker 1
+driver=driver 0
+hp=150
+#end
+#car
+price=25000
+model=model 1
+maker=maker 1
+driver=driver 1
+hp=180
+#end
+#car
+driver=driver 1
+model=model 1
+hp=150
+maker=maker 0
+price=20000
+#end
+#car
+price=45000
+maker=maker 1
+driver=driver 4
+hp=100
+model=model 0
+#end
+#car
+driver=driver 2
+maker=maker 1
+hp=140
+model=model 0
+price=40000
+#end
+#car
+hp=120
+price=20000
+model=model 1
+maker=maker 2
+driver=driver 4
+#end
+#car
+hp=150
+price=20000
+driver=driver 2
+model=model 1
+maker=maker 0
+#end
+#car
+maker=maker 1
+hp=130
+model=model 1
+driver=driver 3
+price=30000
+#end
+#car
+driver=driver 4
+model=model 0
+hp=190
+price=30000
+maker=maker 2
+#end
+#car
+hp=110
+maker=maker 1
+driver=driver 1
+model=model 1
+price=20000
+#end
+#car
+model=model 0
+maker=maker 2
+price=45000
+hp=120
+driver=driver 4
+#end
+#car
+driver=driver 4
+model=model 1
+maker=maker 0
+price=40000
+hp=130
+#end
+#car
+price=40000
+driver=driver 0
+model=model 1
+hp=180
+maker=maker 0
+#end
+#car
+model=model 0
+price=35000
+maker=maker 1
+hp=170
+driver=driver 2
+#end
+#car
+hp=80
+driver=driver 4
+model=model 1
+maker=maker 2
+price=20000
+#end
+#car
+hp=140
+model=model 1
+maker=maker 1
+price=45000
+driver=driver 1
+#end
+#car
+hp=140
+maker=maker 0
+price=40000
+model=model 0
+driver=driver 4
+#end
+#car
+driver=driver 3
+hp=160
+model=model 0
+maker=maker 1
+price=30000
+#end
+#car
+model=model 0
+maker=maker 0
+price=30000
+hp=150
+driver=driver 3
+#end
+#car
+maker=maker 0
+price=40000
+hp=140
+model=model 0
+driver=driver 3
+#end
+#car
+hp=160
+maker=maker 2
+model=model 0
+price=40000
+driver=driver 3
+#end
+#car
+maker=maker 0
+model=model 0
+driver=driver 1
+price=25000
+hp=160
+#end
+#car
+driver=driver 3
+price=30000
+model=model 1
+maker=maker 0
+hp=150
+#end
+#car
+price=35000
+driver=driver 0
+maker=maker 2
+hp=150
+model=model 1
+#end
+#car
+hp=170
+price=20000
+driver=driver 1
+model=model 1
+maker=maker 2
+#end
+#car
+hp=90
+model=model 0
+driver=driver 3
+price=30000
+maker=maker 2
+#end
+#car
+driver=driver 2
+hp=170
+maker=maker 1
+price=35000
+model=model 1
+#end
+#car
+hp=120
+maker=maker 0
+driver=driver 4
+model=model 0
+price=20000
+#end
+#car
+maker=maker 1
+price=25000
+model=model 0
+driver=driver 2
+hp=170
+#end
+#car
+hp=150
+model=model 1
+driver=driver 2
+price=40000
+maker=maker 2
+#end
+#car
+price=40000
+model=model 0
+hp=180
+maker=maker 1
+driver=driver 2
+#end
+#car
+hp=160
+driver=driver 3
+price=25000
+model=model 0
+maker=maker 1
+#end
+#driver
+team=team 7
+name=driver 2
+#end
+#car
+hp=130
+model=model 0
+maker=maker 1
+price=35000
+driver=driver 1
+#end
+#car
+driver=driver 2
+maker=maker 1
+price=35000
+hp=180
+model=model 1
+#end
+#car
+maker=maker 1
+model=model 0
+hp=120
+driver=driver 3
+price=25000
+#end
+#driver
+name=driver 3
+team=team 8
+#end
+#car
+price=30000
+hp=190
+driver=driver 1
+maker=maker 1
+model=model 1
+#end
+#driver
+name=driver 0
+team=team 3
+#end
+#car
+hp=80
+model=model 0
+driver=driver 4
+maker=maker 0
+price=20000
+#end
+#car
+maker=maker 0
+hp=100
+driver=driver 0
+model=model 0
+price=45000
+#end
+#car
+driver=driver 3
+model=model 0
+price=25000
+hp=100
+maker=maker 2
+#end
+#car
+maker=maker 1
+driver=driver 1
+hp=160
+price=35000
+model=model 0
+#end
+#car
+model=model 0
+hp=100
+maker=maker 0
+price=30000
+driver=driver 4
+#end
+#car
+maker=maker 2
+price=30000
+hp=80
+model=model 0
+driver=driver 0
+#end
+#car
+maker=maker 1
+price=20000
+hp=140
+model=model 0
+driver=driver 3
+#end
+#car
+maker=maker 2
+hp=150
+model=model 1
+driver=driver 3
+price=40000
+#end
+#car
+maker=maker 0
+hp=100
+driver=driver 4
+price=40000
+model=model 1
+#end
+#car
+price=35000
+maker=maker 2
+model=model 0
+hp=120
+driver=driver 2
+#end
+#car
+hp=80
+model=model 1
+driver=driver 0
+price=30000
+maker=maker 0
+#end
+#car
+hp=150
+driver=driver 3
+price=45000
+maker=maker 2
+model=model 0
+#end
+#car
+model=model 1
+price=35000
+driver=driver 1
+hp=150
+maker=maker 2
+#end
+#car
+price=25000
+driver=driver 4
+maker=maker 0
+model=model 1
+hp=190
+#end
+#car
+price=25000
+hp=120
+driver=driver 1
+model=model 1
+maker=maker 1
+#end
+#car
+model=model 1
+driver=driver 4
+maker=maker 1
+price=30000
+hp=80
+#end
+#car
+price=20000
+model=model 0
+hp=130
+driver=driver 4
+maker=maker 2
+#end
+#car
+model=model 1
+hp=80
+maker=maker 2
+driver=driver 3
+price=25000
+#end
+#car
+price=30000
+driver=driver 1
+model=model 0
+hp=100
+maker=maker 1
+#end
+#car
+model=model 0
+hp=140
+price=40000
+maker=maker 2
+driver=driver 1
+#end
+#car
+model=model 1
+maker=maker 0
+price=45000
+driver=driver 2
+hp=90
+#end
+#car
+maker=maker 1
+driver=driver 0
+hp=140
+model=model 1
+price=25000
+#end
+#car
+hp=180
+price=30000
+model=model 1
+maker=maker 1
+driver=driver 2
+#end
+#driver
+team=team 6
+name=driver 1
+#end
+#car
+model=model 0
+driver=driver 3
+hp=190
+price=20000
+maker=maker 2
+#end
+#car
+price=25000
+model=model 1
+maker=maker 1
+hp=120
+driver=driver 1
+#end
+#car
+driver=driver 4
+maker=maker 0
+hp=160
+model=model 0
+price=25000
+#end
+#car
+hp=160
+driver=driver 3
+price=45000
+maker=maker 2
+model=model 0
+#end
+#car
+maker=maker 1
+driver=driver 2
+price=30000
+model=model 1
+hp=90
+#end
+#car
+model=model 0
+maker=maker 2
+price=45000
+hp=140
+driver=driver 0
+#end
+#team
+name=team 7
+#end
+#car
+hp=80
+maker=maker 1
+price=25000
+model=model 1
+driver=driver 1
+#end
+#car
+maker=maker 1
+hp=160
+model=model 1
+driver=driver 4
+price=30000
+#end
+#car
+hp=160
+model=model 0
+price=30000
+maker=maker 2
+driver=driver 2
+#end
+#car
+driver=driver 1
+hp=190
+price=40000
+maker=maker 2
+model=model 1
+#end
+#car
+price=20000
+maker=maker 1
+model=model 1
+hp=170
+driver=driver 3
+#end
+#car
+price=20000
+driver=driver 1
+hp=190
+maker=maker 2
+model=model 1
+#end
+#car
+model=model 1
+driver=driver 2
+maker=maker 0
+price=25000
+hp=100
+#end
+#car
+maker=maker 0
+price=30000
+hp=130
+driver=driver 0
+model=model 0
+#end
+#car
+hp=130
+model=model 0
+maker=maker 2
+price=40000
+driver=driver 2
+#end
+#car
+price=30000
+driver=driver 4
+hp=130
+model=model 0
+maker=maker 0
+#end
+#car
+maker=maker 0
+price=30000
+driver=driver 3
+hp=190
+model=model 0
+#end
+#car
+price=40000
+driver=driver 1
+maker=maker 1
+hp=170
+model=model 1
+#end
+#car
+hp=130
+driver=driver 1
+model=model 1
+price=20000
+maker=maker 0
+#end
+#car
+maker=maker 2
+model=model 0
+driver=driver 2
+price=40000
+hp=110
+#end
+#car
+model=model 1
+price=40000
+driver=driver 0
+hp=90
+maker=maker 1
+#end
+#driver
+team=team 9
+name=driver 2
+#end
+#car
+maker=maker 2
+driver=driver 3
+price=25000
+model=model 0
+hp=130
+#end
+#car
+model=model 0
+maker=maker 2
+hp=80
+driver=driver 4
+price=30000
+#end
+#car
+price=30000
+model=model 0
+driver=driver 1
+maker=maker 2
+hp=90
+#end
+#car
+hp=130
+driver=driver 4
+maker=maker 1
+price=45000
+model=model 0
+#end
+#car
+model=model 1
+driver=driver 1
+maker=maker 0
+hp=190
+price=35000
+#end
+#car
+driver=driver 4
+model=model 1
+maker=maker 2
+hp=140
+price=40000
+#end
+#car
+hp=130
+price=35000
+maker=maker 0
+driver=driver 0
+model=model 1
+#end
+#car
+hp=140
+driver=driver 1
+price=25000
+maker=maker 2
+model=model 0
+#end
+#car
+model=model 1
+hp=180
+price=20000
+maker=maker 1
+driver=driver 2
+#end
+#car
+driver=driver 3
+model=model 0
+price=40000
+hp=120
+maker=maker 0
+#end
+#car
+price=40000
+maker=maker 2
+driver=driver 4
+model=model 0
+hp=80
+#end
+#car
+maker=maker 0
+model=model 1
+driver=driver 4
+price=25000
+hp=170
+#end
+#car
+hp=110
+driver=driver 1
+model=model 0
+price=20000
+maker=maker 0
+#end
+#car
+hp=150
+price=40000
+model=model 1
+maker=maker 2
+driver=driver 4
+#end
+#car
+driver=driver 2
+hp=100
+model=model 0
+price=45000
+maker=maker 0
+#end
+#car
+hp=100
+price=30000
+driver=driver 2
+maker=maker 0
+model=model 0
+#end
+#car
+model=model 0
+driver=driver 1
+maker=maker 2
+price=40000
+hp=100
+#end
+#car
+model=model 1
+maker=maker 0
+price=40000
+driver=driver 1
+hp=140
+#end
+#car
+model=model 0
+driver=driver 1
+price=45000
+maker=maker 1
+hp=150
+#end
+#car
+driver=driver 0
+model=model 1
+hp=160
+price=20000
+maker=maker 0
+#end
+#car
+maker=maker 1
+price=35000
+driver=driver 2
+hp=190
+model=model 0
+#end
+#car
+maker=maker 0
+driver=driver 1
+price=35000
+hp=120
+model=model 0
+#end
+#car
+price=40000
+hp=140
+maker=maker 0
+model=model 0
+driver=driver 1
+#end
+#car
+hp=130
+model=model 0
+maker=maker 0
+driver=driver 1
+price=25000
+#end
+#driver
+name=driver 2
+team=team 7
+#end
+#team
+name=team 0
+#end
+#car
+hp=110
+price=20000
+model=model 1
+driver=driver 3
+maker=maker 1
+#end
+#car
+maker=maker 1
+price=20000
+model=model 0
+driver=driver 4
+hp=160
+#end
+#car
+price=35000
+model=model 0
+driver=driver 0
+maker=maker 2
+hp=190
+#end
+#car
+price=25000
+maker=maker 1
+model=model 1
+hp=110
+driver=driver 4
+#end
+#car
+driver=driver 0
+hp=80
+price=25000
+model=model 1
+maker=maker 1
+#end
+#car
+maker=maker 1
+model=model 1
+hp=160
+driver=driver 0
+price=25000
+#end
+#car
+model=model 1
+driver=driver 0
+maker=maker 2
+price=30000
+hp=120
+#end
+#car
+driver=driver 2
+maker=maker 2
+price=40000
+hp=180
+model=model 0
+#end
+#car
+maker=maker 2
+price=30000
+hp=80
+model=model 0
+driver=driver 2
+#end
+#car
+model=model 1
+hp=150
+driver=driver 0
+price=35000
+maker=maker 0
+#end
+#car
+maker=maker 1
+model=model 0
+hp=120
+driver=driver 0
+price=30000
+#end
+#car
+model=model 1
+price=35000
+driver=driver 2
+hp=130
+maker=maker 0
+#end
+#car
+price=30000
+hp=140
+driver=driver 2
+maker=maker 2
+model=model 0
+#end
+#car
+model=model 1
+price=20000
+maker=maker 2
+driver=driver 4
+hp=130
+#end
+#car
+model=model 0
+hp=160
+maker=maker 0
+driver=driver 3
+price=35000
+#end
+#car
+price=30000
+driver=driver 3
+hp=170
+maker=maker 1
+model=model 1
+#end
+#car
+driver=driver 1
+model=model 0
+maker=maker 1
+price=30000
+hp=80
+#end
+#driver
+name=driver 0
+team=team 6
+#end
+#car
+hp=140
+maker=maker 1
+model=model 0
+driver=driver 1
+price=40000
+#end

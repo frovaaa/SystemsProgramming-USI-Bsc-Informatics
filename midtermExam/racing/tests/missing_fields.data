@@ -1,0 +1,13 @@
+#car
+maker=Ferrari
+model=250 GTO
+hp=300
+#end
+#driver
+name=Mario Andretti
+team=Lotus
+#end
+#driver
+team=McLaren
+name=Niki Lauda
+#end

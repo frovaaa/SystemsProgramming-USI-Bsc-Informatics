@@ -1,0 +1,70 @@
+#driver
+team=team 9
+name=driver 27
+#end
+#driver
+team=team 0
+name=driver 22
+#end
+#car
+price=35000
+driver=driver 25
+model=model 8
+hp=110
+maker=maker 6
+#end
+#team
+name=team 5
+#end
+#team
+name=team 1
+#end
+#driver
+name=driver 13
+team=team 2
+#end
+#team
+name=team 4
+#end
+#team
+name=team 3
+#end
+#car
+price=35000
+model=model 2
+maker=maker 1
+hp=80
+driver=driver 23
+#end
+#driver
+team=team 2
+name=driver 15
+#end
+#car
+hp=130
+maker=maker 4
+model=model 16
+price=35000
+driver=driver 7
+#end
+#car
+driver=driver 16
+hp=90
+maker=maker 7
+price=40000
+model=model 13
+#end
+#team
+name=team 2
+#end
+#driver
+team=team 9
+name=driver 28
+#end
+#car
+hp=80
+maker=maker 8
+price=20000
+model=model 0
+driver=driver 3
+#end

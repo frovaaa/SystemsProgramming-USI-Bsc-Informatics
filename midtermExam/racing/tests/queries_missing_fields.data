@@ -1,0 +1,32 @@
+#car
+maker=Ferrari
+model=250 GTO
+hp=300
+#end
+#car
+maker=Ferrari
+hp=300
+#end
+#car
+model=250 GTO
+#end
+#car
+driver=Mario Andretti
+hp=300
+#end
+#driver
+name=Mario Andretti
+team=Lotus
+#end
+#driver
+team=McLaren
+name=Niki Lauda
+#end
+#driver
+team=Ferrari
+#end
+#driver
+name=Ayrton Senna
+#end
+#team
+#end
